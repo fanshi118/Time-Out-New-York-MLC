@@ -19,4 +19,4 @@ if __name__ == '__main__':
 
 	tweets['venue_name'] = [i[0] for i in venues]
 	tweets['venue_type'] = [i[1] for i in venues]
-	tweets.to_csv('../data/tweets_merged.csv')
+	tweets.to_csv('../data/tweets_merged.csv', encoding='utf-8', index=False)
