@@ -10,7 +10,7 @@ if __name__ == '__main__':
 	token = YOUR_TEMPORARY_ACCESS_TOKEN
 	venues = []
 	for i in lat_lon:
-		url = 'https://api.foursquare.com/v2/venues/search?ll=%.8f,%.8f%s'%(i[0],i[1],token)
+		url = 'https://api.foursquare.com/v2/venues/search?ll=%.8f,%.8f&%s'%(i[0],i[1],token)
 		request = urllib2.urlopen(url)
 		venue = json.load(request)
 		try:
