@@ -7,7 +7,7 @@ if __name__ == '__main__':
 	lat_lon = [(tweets.loc[i,'lat'], tweets.loc[i,'lon']) for i in np.arange(0,len(tweets))]
 
 	# https://developer.foursquare.com/docs/explore#req=venues/
-	token = YOUR_Temporary_ACCESS_TOKEN
+	token = YOUR_TEMPORARY_ACCESS_TOKEN
 	venues = []
 	for i in lat_lon:
 		url = 'https://api.foursquare.com/v2/venues/search?ll=%.8f,%.8f%s'%(i[0],i[1],token)
