@@ -35,7 +35,7 @@ if __name__ == '__main__':
 			except AttributeError:
 				user_descr = 'None'.encode('utf-8')
 
-			row = [
+			writer.writerow([
 				tweet_text,
 				lat,
 				lon,
@@ -43,8 +43,6 @@ if __name__ == '__main__':
 				user_id,
 				user_name,
 				user_descr
-				]
-
-			writer.writerow(row)
+				])
 
 		csvfile.close()
