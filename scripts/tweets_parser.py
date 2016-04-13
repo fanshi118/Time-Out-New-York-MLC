@@ -4,7 +4,7 @@ import json, csv
 if __name__ == '__main__':
 	data = []
 	with open('../input/twitter_jsons_sample.txt','r') as f:
-		for cnt,line in enumerate(f):
+		for line in f:
 			data.append(json.loads(line))
 		f.close()
 
