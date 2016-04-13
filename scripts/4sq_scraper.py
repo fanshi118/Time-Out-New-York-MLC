@@ -6,7 +6,8 @@ if __name__ == '__main__':
 	tweets = pd.read_csv('../data/tweets_parsed.csv')
 	lat_lon = [(tweets.loc[i,'lat'], tweets.loc[i,'lon']) for i in np.arange(0,len(tweets))]
 
-	token = '&oauth_token=GIJRN3TLCRMSTTRR4QUZNE3J3C5AIO0YO5FAUELIG1ZFWOIK&v=20160412'
+	# https://developer.foursquare.com/docs/explore#req=venues/
+	token = YOUR_Temporary_ACCESS_TOKEN
 	venues = []
 	for i in lat_lon:
 		url = 'https://api.foursquare.com/v2/venues/search?ll=%.8f,%.8f%s'%(i[0],i[1],token)
