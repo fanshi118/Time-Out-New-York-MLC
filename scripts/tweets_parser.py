@@ -8,8 +8,7 @@ if __name__ == '__main__':
 			data.append(json.loads(line))
 		f.close()
 
-	with_urls = [i for i in data if i['entities']['urls']!=[]]
-	foursquares = [i for i in with_urls if 'foursquare.com' in i['source']]
+	foursquares = [i for i in data if 'foursquare.com' in i['source']]
 	
 	with open('../data/tweets_parsed.csv', 'wb') as csvfile:
 		writer = csv.writer(csvfile)
