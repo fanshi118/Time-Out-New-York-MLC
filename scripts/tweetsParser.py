@@ -46,7 +46,7 @@ def parse(foursquares):
 
 if __name__ == '__main__':
     data = []
-    with open('../input/twitter_jsons_sample.txt', 'r') as f:
+    with open('../data/twitter_jsons_sample.txt', 'r') as f:
         for line in f:
             data.append(json.loads(line))
 
