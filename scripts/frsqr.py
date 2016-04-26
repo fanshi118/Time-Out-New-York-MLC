@@ -1,6 +1,5 @@
 # script for scraping 4sq venue info using the files parsed from spark
-# TO DO
-# __author__ = "Shi Fan"
+
 import urllib2
 import json
 import glob
