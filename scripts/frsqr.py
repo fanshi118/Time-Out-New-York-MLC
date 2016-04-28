@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# __author__ = "Yuxiang Zhang"
+# -*- coding: utf-8 -*-
 # script for scraping 4sq venue info using the files parsed from spark
 
 import urllib2

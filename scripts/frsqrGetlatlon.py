@@ -59,7 +59,9 @@ import numpy as np
 # venue_df = venue_df.reindex(venue_df.index.drop(0))
 # venue_df.to_csv('../data/mergedVenue.csv',index=False)
 venue_df = pd.read_csv('../data/mergedVenue.csv', low_memory=False)
+
 message_df = pd.read_csv("../data/fullOutput.csv", low_memory=False)
-# merged_df = pd.merge(message_df, venue_df, on=['lat', 'lon'])
-# merged_df.to_csv('../data/merged_message.csv', index=False)
-print venue_df.head()
+message_df = message_df.replace(['null'], [0])
+message_df['lon'] = message_df['lon'].astype('float64')
+merged_df = pd.merge(message_df, venue_df, on=['lat', 'lon'])
+merged_df.to_csv('../data/merged_message.csv', index=False)

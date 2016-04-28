@@ -18,23 +18,22 @@ import csv
 # for record in csvVenue:
 #     venue.append(record)
 # merged = np.hstack([loc, venue])
-# message = [['use_id', 'username', 'description', 'lan',
-#             'message', 'time', 'lat', 'lon', 'city']]
-fout = open("../data/fullOutput.csv", 'wb')
-wr = csv.writer(fout)
-wr.writerow([
-    'use_id', 'username', 'description', 'lan', 'message', 'time', 'lat', 'lon', 'city'])
-for data in glob.glob("../data/*_output/part*"):
-    f = open(data, 'r')
-    csv_reader = csv.reader(f)
-    for record in csv_reader:
-        wr.writerow(record)
-
-# message_df = pd.DataFrame(message)
-# message_df.columns = message_df.iloc[0]
-# message_df = message_df.reindex(message_df.index.drop(0))
-# venue_df = pd.DataFrame(merged)
-# venue_df.columns = venue_df.iloc[0]
-# venue_df = venue_df.reindex(venue_df.index.drop(0))
-# merged_df = pd.merge(message_df, venue_df, on=['lat', 'lon'])
-# merged_df.to_csv('../data/merged_message.csv', index=False)
+# fout = open("../data/fullOutput.csv", 'wb')
+# wr = csv.writer(fout)
+# wr.writerow([
+#     'use_id', 'message', 'time', 'lat', 'lon', 'city'])
+# for data in glob.glob("../data/*_output/part*"):
+#     f = open(data, 'r')
+#     csv_reader = csv.reader(f)
+#     for record in csv_reader:
+#         row = record
+#         row[1:] = row[4:]
+#         wr.writerow(row)
+venue_df = pd.read_csv('../data/mergedVenue.csv',
+                       dtype={'lat': np.float64, 'lon': np.float64}, low_memory=False)
+message_df = pd.read_csv(
+    '../data/fullOutput.csv', dtype={'lat': np.float64, 'lon': np.float64}, low_memory=False)
+print message_df.dtypes
+print venue_df.dtypes
+merged_df = pd.merge(message_df, venue_df, on=['lat', 'lon'])
+merged_df.to_csv('../data/merged_message.csv', index=False)
