@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# __author__ = "Yuxiang Zhang"
 # -*- coding: utf-8 -*-
 
 # all documentation is here
@@ -15,8 +16,6 @@ from settings import FRSQR_CLIENT_IDS, FRSQR_CLIENT_SECRETS
 def VenueSearch(lat, lon, k):
     '''venue search, returns list of compact venues for specific area'''
 
-    # sw=%s&ne=%s&client_id=%s&client_secret=%s&intent=browse" % (sw, ne,
-    # CLIENT_ID, CLIENT_SECRET)
     CLIENT_ID = FRSQR_CLIENT_IDS[k]
     CLIENT_SECRET = FRSQR_CLIENT_SECRETS[k]
 
@@ -27,9 +26,12 @@ def VenueSearch(lat, lon, k):
                'v': "20160318"
                }
     res = json.loads(requests.get(baseUrl, params=payload).text)
+    if len(res['response']['venues']) == 0:
+        return(['NA', 'NA', 'NA'])
     venue = res['response']['venues'][0]
     vid = venue['id']
     vname = venue['name']
+    # Some venue don't have category information, replace with 'NA'
     try:
         vcat = venue['categories'][0]['name']
     except IndexError:

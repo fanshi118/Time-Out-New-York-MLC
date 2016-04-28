@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# __author__="Shi Fan"
+# -*- coding: utf-8 -*-
+
 import urllib2
 import json
 import pandas as pd

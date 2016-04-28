@@ -1,4 +1,10 @@
-import tweepy, glob, csv
+#!/usr/bin/env python
+# __author__ = "Yuxiang Zhang"
+# -*- coding: utf-8 -*-
+import tweepy
+import glob
+import csv
+
 from settings import *
 auth = tweepy.OAuthHandler(TWITTER_CONSUMER_KEY, TWITTER_CONSUMER_SECRET)
 auth.set_access_token(TWITTER_ACCESS_TOKEN, TWITTER_ACCESS_TOKEN_SECRET)
@@ -6,10 +12,12 @@ auth.set_access_token(TWITTER_ACCESS_TOKEN, TWITTER_ACCESS_TOKEN_SECRET)
 api = tweepy.API(auth)
 
 #u = api.get_user(id=404203580)
+
+
 def getTwitterIDs(ids=[]):
-	for data in glob.glob("../data/*output/part*"):
-		f = open(data, 'r')
-		csv_reader = csv.reader(f)
-		for record in csv_reader:
-			ids.append(record[0])
-	return list(set(ids))
+    for data in glob.glob("../data/*output/part*"):
+        f = open(data, 'r')
+        csv_reader = csv.reader(f)
+        for record in csv_reader:
+            ids.append(record[0])
+    return list(set(ids))

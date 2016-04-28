@@ -1,6 +1,9 @@
+#!/usr/bin/env python
+# __author__="Shi Fan"
+# -*- coding: utf-8 -*-
+
 import json
 import csv
-__author__ = 'Shi Fan'
 
 
 def parse(foursquares):

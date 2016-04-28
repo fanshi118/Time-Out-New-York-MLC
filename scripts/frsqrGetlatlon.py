@@ -1,10 +1,14 @@
+#!/usr/bin/env python
+# __author__ = "Yuxiang Zhang"
+# -*- coding: utf-8 -*-
 import csv
 import glob
 from frsqrRequests import VenueSearch
 import pandas as pd
+import time
+import numpy as np
 
-# Get Full Latlon
-
+# Part 1: Get Full Latlon
 # fullLatlon = open('../data/fullLatlon.csv', 'wb')
 # w = csv.writer(fullLatlon)
 # w.writerow(['lat', 'lon'])
@@ -19,29 +23,43 @@ import pandas as pd
 # for i in lat_lon:
 #     w.writerow(i)
 
-
-# myfile = open('../data/fullVenuelist_18.csv', 'wb')
+# Part 2:
+#     Quest API for venue information
+# myfile = open('../data/fullVenuelist.csv', 'a')
 # wr = csv.writer(myfile)
 # wr.writerow(['venue_id', 'venue_name', 'veunue_category'])
 # l = pd.read_csv('../data/fullLatlon.csv')
-# k = 2
 # for idx, val in l.iterrows():
 # After each round of 1500 venue search, change credentials
-# k = 4 - (idx // 1500 % 5)
-#     if idx >= 118124:
-#         k = (1 + idx // 1500) % 5
+#     if idx >= 128749:
+#         if (idx % 9000 == 1):
+#             time.sleep(500)
+#         k = (idx // 1500) % 6
 #         print k, idx, val[0], val[1]
 #         row = VenueSearch(val[0], val[1], k)
-#         print [s.encode('utf-8') for s in row]
+
+#         row[:0] = [str(idx)]
 #         wr.writerow([s.encode('utf-8') for s in row])
 
-# Merge data
-fout = open("../Data/fullVenuelist.csv", 'wb')
-fout.write("venue_id, venue_name, veunue_category\n")
-for data in glob.glob("../data/fullVenuelist_*"):
-    f = open(data, 'rb')
-    f.next()
-    for line in f:
-        fout.write(line)
-    f.close()
-fout.close()
+# Part 3: Merge data
+# Merge with fullLatlon.csv
+# fLatlon = open("../data/fullLatlon.csv", "rb")
+# csvLatlon = csv.reader(fLatlon)
+# loc = []
+# for record in csvLatlon:
+#     loc.append((record[0], record[1]))
+# fVenue = open("../data/fullVenuelist.csv")
+# csvVenue = csv.reader(fVenue)
+# venue = []
+# for record in csvVenue:
+#     venue.append(record)
+# mergedVenue = np.hstack([loc, venue])
+# venue_df = pd.DataFrame(mergedVenue)
+# venue_df.columns = venue_df.iloc[0]
+# venue_df = venue_df.reindex(venue_df.index.drop(0))
+# venue_df.to_csv('../data/mergedVenue.csv',index=False)
+venue_df = pd.read_csv('../data/mergedVenue.csv', low_memory=False)
+message_df = pd.read_csv("../data/fullOutput.csv", low_memory=False)
+# merged_df = pd.merge(message_df, venue_df, on=['lat', 'lon'])
+# merged_df.to_csv('../data/merged_message.csv', index=False)
+print venue_df.head()

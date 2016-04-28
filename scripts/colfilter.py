@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# __author__ = "Yuxiang Zhang"
+# -*- coding: utf-8 -*-
+
 import pandas as pd
 from scipy.spatial.distance import cosine
 data = pd.read_csv('../data/test/lastfm-matrix-germany.csv')
