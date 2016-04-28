@@ -17,7 +17,10 @@ def getLatLons(lat_lon=[]):
         f = open(data, 'r')
         csv_reader = csv.reader(f)
         for record in csv_reader:
-            lat_lon.append((float(record[-3]), float(record[-2])))
+            try:
+                lat_lon.append((float(record[-3]), float(record[-2])))
+            except:
+                continue
     return list(set(lat_lon))
 
 
