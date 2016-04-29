@@ -61,9 +61,9 @@ geolocator = Nominatim()
 # print county.head()
 
 # Part 4: Merge venueCounty.csv with merged_message.csv on lat lon
-# county = pd.read_csv('../data/venueCounty.csv', dtype={'lat': str, 'lon': str})
-# message = pd.read_csv('../data/merged_message.csv',
-#                       dtype={'user_id': str, 'lat': str, 'lon': str, 'venue_idx': str})
-# label_message = pd.merge(county, message, on=['lat', 'lon'])
-# labeled_message = label_message[label_message['label'] == 1]
-# labeled_message.to_csv('../data/cleanMessage.csv', index=False)
+county = pd.read_csv('../data/venueCounty.csv', dtype={'lat': str, 'lon': str})
+message = pd.read_csv('../data/merged_message.csv',
+                      dtype={'user_id': str, 'lat': str, 'lon': str, 'venue_idx': str})
+label_message = pd.merge(county, message, on=['lat', 'lon'])
+labeled_message = label_message[label_message['label'] == 1]
+labeled_message.to_csv('../data/cleanMessage.csv', index=False)
