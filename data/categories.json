@@ -1,0 +1,4190 @@
+{
+    "categories": [{
+        "name": "Arts & Entertainment",
+        "pluralName": "Arts & Entertainment",
+        "shortName": "Arts & Entertainment",
+        "categories": [{
+            "name": "Amphitheater",
+            "pluralName": "Amphitheaters",
+            "shortName": "Amphitheater",
+            "categories": []
+        }, {
+            "name": "Aquarium",
+            "pluralName": "Aquariums",
+            "shortName": "Aquarium",
+            "categories": []
+        }, {
+            "name": "Arcade",
+            "pluralName": "Arcades",
+            "shortName": "Arcade",
+            "categories": []
+        }, {
+            "name": "Art Gallery",
+            "pluralName": "Art Galleries",
+            "shortName": "Art Gallery",
+            "categories": []
+        }, {
+            "name": "Bowling Alley",
+            "pluralName": "Bowling Alleys",
+            "shortName": "Bowling Alley",
+            "categories": []
+        }, {
+            "name": "Casino",
+            "pluralName": "Casinos",
+            "shortName": "Casino",
+            "categories": []
+        }, {
+            "name": "Circus",
+            "pluralName": "Circuses",
+            "shortName": "Circus",
+            "categories": []
+        }, {
+            "name": "Comedy Club",
+            "pluralName": "Comedy Clubs",
+            "shortName": "Comedy Club",
+            "categories": []
+        }, {
+            "name": "Concert Hall",
+            "pluralName": "Concert Halls",
+            "shortName": "Concert Hall",
+            "categories": []
+        }, {
+            "name": "Country Dance Club",
+            "pluralName": "Country Dance Clubs",
+            "shortName": "Country Dance Club",
+            "categories": []
+        }, {
+            "name": "Disc Golf",
+            "pluralName": "Disc Golf Courses",
+            "shortName": "Disc Golf",
+            "categories": []
+        }, {
+            "name": "Exhibit",
+            "pluralName": "Exhibits",
+            "shortName": "Exhibit",
+            "categories": []
+        }, {
+            "name": "General Entertainment",
+            "pluralName": "General Entertainment",
+            "shortName": "Entertainment",
+            "categories": []
+        }, {
+            "name": "Go Kart Track",
+            "pluralName": "Go Kart Tracks",
+            "shortName": "Go Kart",
+            "categories": []
+        }, {
+            "name": "Historic Site",
+            "pluralName": "Historic Sites",
+            "shortName": "Historic Site",
+            "categories": []
+        }, {
+            "name": "Laser Tag",
+            "pluralName": "Laser Tag Places",
+            "shortName": "Laser Tag",
+            "categories": []
+        }, {
+            "name": "Memorial Site",
+            "pluralName": "Memorial Sites",
+            "shortName": "Memorial Site",
+            "categories": []
+        }, {
+            "name": "Mini Golf",
+            "pluralName": "Mini Golf Courses",
+            "shortName": "Mini Golf",
+            "categories": []
+        }, {
+            "name": "Movie Theater",
+            "pluralName": "Movie Theaters",
+            "shortName": "Movie Theater",
+            "categories": [{
+                "name": "Drive-in Theater",
+                "pluralName": "Drive-in Theaters",
+                "shortName": "Drive-in Theater",
+                "categories": []
+            }, {
+                "name": "Indie Movie Theater",
+                "pluralName": "Indie Movie Theaters",
+                "shortName": "Indie Movies",
+                "categories": []
+            }, {
+                "name": "Multiplex",
+                "pluralName": "Multiplexes",
+                "shortName": "Cineplex",
+                "categories": []
+            }]
+        }, {
+            "name": "Museum",
+            "pluralName": "Museums",
+            "shortName": "Museum",
+            "categories": [{
+                "name": "Art Museum",
+                "pluralName": "Art Museums",
+                "shortName": "Art Museum",
+                "categories": []
+            }, {
+                "name": "Erotic Museum",
+                "pluralName": "Erotic Museums",
+                "shortName": "Erotic Museum",
+                "categories": []
+            }, {
+                "name": "History Museum",
+                "pluralName": "History Museums",
+                "shortName": "History Museum",
+                "categories": []
+            }, {
+                "name": "Planetarium",
+                "pluralName": "Planetariums",
+                "shortName": "Planetarium",
+                "categories": []
+            }, {
+                "name": "Science Museum",
+                "pluralName": "Science Museums",
+                "shortName": "Science Museum",
+                "categories": []
+            }]
+        }, {
+            "name": "Music Venue",
+            "pluralName": "Music Venues",
+            "shortName": "Music Venue",
+            "categories": [{
+                "name": "Jazz Club",
+                "pluralName": "Jazz Clubs",
+                "shortName": "Jazz Club",
+                "categories": []
+            }, {
+                "name": "Piano Bar",
+                "pluralName": "Piano Bars",
+                "shortName": "Piano Bar",
+                "categories": []
+            }, {
+                "name": "Rock Club",
+                "pluralName": "Rock Clubs",
+                "shortName": "Rock Club",
+                "categories": []
+            }]
+        }, {
+            "name": "Performing Arts Venue",
+            "pluralName": "Performing Arts Venues",
+            "shortName": "Performing Arts",
+            "categories": [{
+                "name": "Dance Studio",
+                "pluralName": "Dance Studios",
+                "shortName": "Dance Studio",
+                "categories": []
+            }, {
+                "name": "Indie Theater",
+                "pluralName": "Indie Theaters",
+                "shortName": "Indie",
+                "categories": []
+            }, {
+                "name": "Opera House",
+                "pluralName": "Opera Houses",
+                "shortName": "Opera House",
+                "categories": []
+            }, {
+                "name": "Theater",
+                "pluralName": "Theaters",
+                "shortName": "Theater",
+                "categories": []
+            }]
+        }, {
+            "name": "Pool Hall",
+            "pluralName": "Pool Halls",
+            "shortName": "Billiards",
+            "categories": []
+        }, {
+            "name": "Public Art",
+            "pluralName": "Public Art",
+            "shortName": "Public Art",
+            "categories": [{
+                "name": "Outdoor Sculpture",
+                "pluralName": "Outdoor Sculptures",
+                "shortName": "Outdoor Sculpture",
+                "categories": []
+            }, {
+                "name": "Street Art",
+                "pluralName": "Street Art Installations",
+                "shortName": "Street Art",
+                "categories": []
+            }]
+        }, {
+            "name": "Racecourse",
+            "pluralName": "Racecourses",
+            "shortName": "Racecourse",
+            "categories": []
+        }, {
+            "name": "Racetrack",
+            "pluralName": "Racetracks",
+            "shortName": "Racetrack",
+            "categories": []
+        }, {
+            "name": "Roller Rink",
+            "pluralName": "Roller Rinks",
+            "shortName": "Roller Rink",
+            "categories": []
+        }, {
+            "name": "Salsa Club",
+            "pluralName": "Salsa Clubs",
+            "shortName": "Salsa Club",
+            "categories": []
+        }, {
+            "name": "Samba School",
+            "pluralName": "Samba Schools",
+            "shortName": "Samba School",
+            "categories": []
+        }, {
+            "name": "Stadium",
+            "pluralName": "Stadiums",
+            "shortName": "Stadium",
+            "categories": [{
+                "name": "Baseball Stadium",
+                "pluralName": "Baseball Stadiums",
+                "shortName": "Baseball",
+                "categories": []
+            }, {
+                "name": "Basketball Stadium",
+                "pluralName": "Basketball Stadiums",
+                "shortName": "Basketball",
+                "categories": []
+            }, {
+                "name": "Cricket Ground",
+                "pluralName": "Cricket Grounds",
+                "shortName": "Cricket",
+                "categories": []
+            }, {
+                "name": "Football Stadium",
+                "pluralName": "Football Stadiums",
+                "shortName": "Football",
+                "categories": []
+            }, {
+                "name": "Hockey Arena",
+                "pluralName": "Hockey Arenas",
+                "shortName": "Hockey",
+                "categories": []
+            }, {
+                "name": "Rugby Stadium",
+                "pluralName": "Rugby Stadiums",
+                "shortName": "Rugby",
+                "categories": []
+            }, {
+                "name": "Soccer Stadium",
+                "pluralName": "Soccer Stadiums",
+                "shortName": "Soccer",
+                "categories": []
+            }, {
+                "name": "Tennis Stadium",
+                "pluralName": "Tennis Stadiums",
+                "shortName": "Tennis",
+                "categories": []
+            }, {
+                "name": "Track Stadium",
+                "pluralName": "Track Stadiums",
+                "shortName": "Track",
+                "categories": []
+            }]
+        }, {
+            "name": "Theme Park",
+            "pluralName": "Theme Parks",
+            "shortName": "Theme Park",
+            "categories": [{
+                "shortName": "Theme Park",
+                "categories": []
+            }]
+        }, {
+            "categories": []
+        }, {
+            "name": "Water Park",
+            "pluralName": "Water Parks",
+            "shortName": "Water Park",
+            "categories": []
+        }, {
+            "name": "Zoo",
+            "pluralName": "Zoos",
+            "shortName": "Zoo",
+            "categories": []
+        }]
+    }, {
+        "name": "College & University",
+        "pluralName": "Colleges & Universities",
+        "shortName": "College & Education",
+        "categories": [{
+            "name": "College Academic Building",
+            "pluralName": "College Academic Buildings",
+            "shortName": "Academic Building",
+            "categories": [{
+                "name": "College Arts Building",
+                "pluralName": "College Arts Buildings",
+                "shortName": "Arts",
+                "categories": []
+            }, {
+                "name": "College Communications Building",
+                "pluralName": "College Communications Buildings",
+                "shortName": "Communications",
+                "categories": []
+            }, {
+                "name": "College Engineering Building",
+                "pluralName": "College Engineering Buildings",
+                "shortName": "Engineering",
+                "categories": []
+            }, {
+                "name": "College History Building",
+                "pluralName": "College History Buildings",
+                "shortName": "History",
+                "categories": []
+            }, {
+                "name": "College Math Building",
+                "pluralName": "College Math Buildings",
+                "shortName": "Math",
+                "categories": []
+            }, {
+                "name": "College Science Building",
+                "pluralName": "College Science Buildings",
+                "shortName": "Science",
+                "categories": []
+            }, {
+                "name": "College Technology Building",
+                "pluralName": "College Technology Buildings",
+                "shortName": "Technology",
+                "categories": []
+            }]
+        }, {
+            "name": "College Administrative Building",
+            "pluralName": "College Administrative Buildings",
+            "shortName": "Administrative Building",
+            "categories": []
+        }, {
+            "name": "College Auditorium",
+            "pluralName": "College Auditoriums",
+            "shortName": "Auditorium",
+            "categories": []
+        }, {
+            "name": "College Bookstore",
+            "pluralName": "College Bookstores",
+            "shortName": "College Bookstore",
+            "categories": []
+        }, {
+            "name": "College Cafeteria",
+            "pluralName": "College Cafeterias",
+            "shortName": "Cafeteria",
+            "categories": []
+        }, {
+            "name": "College Classroom",
+            "pluralName": "College Classrooms",
+            "shortName": "Classroom",
+            "categories": []
+        }, {
+            "name": "College Gym",
+            "pluralName": "College Gyms",
+            "shortName": "Gym",
+            "categories": []
+        }, {
+            "name": "College Lab",
+            "pluralName": "College Labs",
+            "shortName": "Lab",
+            "categories": []
+        }, {
+            "name": "College Library",
+            "pluralName": "College Libraries",
+            "shortName": "Library",
+            "categories": []
+        }, {
+            "name": "College Quad",
+            "pluralName": "College Quads",
+            "shortName": "Quad",
+            "categories": []
+        }, {
+            "name": "College Rec Center",
+            "pluralName": "College Rec Centers",
+            "shortName": "Rec Center",
+            "categories": []
+        }, {
+            "categories": []
+        }, {
+            "name": "College Stadium",
+            "pluralName": "College Stadiums",
+            "shortName": "Stadium",
+            "categories": [{
+                "name": "College Baseball Diamond",
+                "pluralName": "College Baseball Diamonds",
+                "shortName": "Baseball",
+                "categories": []
+            }, {
+                "name": "College Basketball Court",
+                "pluralName": "College Basketball Courts",
+                "shortName": "Basketball",
+                "categories": []
+            }, {
+                "name": "College Cricket Pitch",
+                "pluralName": "College Cricket Pitches",
+                "shortName": "Cricket",
+                "categories": []
+            }, {
+                "name": "College Football Field",
+                "pluralName": "College Football Fields",
+                "shortName": "Football",
+                "categories": []
+            }, {
+                "name": "College Hockey Rink",
+                "pluralName": "College Hockey Rinks",
+                "shortName": "Hockey",
+                "categories": []
+            }, {
+                "name": "College Soccer Field",
+                "pluralName": "College Soccer Fields",
+                "shortName": "Soccer",
+                "categories": []
+            }, {
+                "name": "College Tennis Court",
+                "pluralName": "College Tennis Courts",
+                "shortName": "Tennis Court",
+                "categories": []
+            }, {
+                "name": "College Track",
+                "pluralName": "College Tracks",
+                "shortName": "Track",
+                "categories": []
+            }]
+        }, {
+            "name": "College Theater",
+            "pluralName": "College Theaters",
+            "shortName": "Theater",
+            "categories": []
+        }, {
+            "name": "Community College",
+            "pluralName": "Community Colleges",
+            "shortName": "Community College",
+            "categories": []
+        }, {
+            "name": "Fraternity House",
+            "pluralName": "Fraternity Houses",
+            "shortName": "Frat House",
+            "categories": []
+        }, {
+            "name": "General College & University",
+            "pluralName": "General Colleges & Universities",
+            "shortName": "Education",
+            "categories": []
+        }, {
+            "name": "Law School",
+            "pluralName": "Law Schools",
+            "shortName": "Law School",
+            "categories": []
+        }, {
+            "name": "Medical School",
+            "pluralName": "Medical Schools",
+            "shortName": "Medical School",
+            "categories": []
+        }, {
+            "name": "Sorority House",
+            "pluralName": "Sorority Houses",
+            "shortName": "Sorority House",
+            "categories": []
+        }, {
+            "name": "Student Center",
+            "pluralName": "Student Centers",
+            "shortName": "Student Center",
+            "categories": []
+        }, {
+            "name": "Trade School",
+            "pluralName": "Trade Schools",
+            "shortName": "Trade School",
+            "categories": []
+        }, {
+            "name": "University",
+            "pluralName": "Universities",
+            "shortName": "University",
+            "categories": []
+        }]
+    }, {
+        "name": "Event",
+        "pluralName": "Events",
+        "shortName": "Event",
+        "categories": [{
+            "name": "Christmas Market",
+            "pluralName": "Christmas Markets",
+            "shortName": "Christmas Market",
+            "categories": []
+        }, {
+            "name": "Conference",
+            "pluralName": "Conferences",
+            "shortName": "Conference",
+            "categories": []
+        }, {
+            "name": "Convention",
+            "pluralName": "Conventions",
+            "shortName": "Convention",
+            "categories": []
+        }, {
+            "name": "Festival",
+            "pluralName": "Festivals",
+            "shortName": "Festival",
+            "categories": []
+        }, {
+            "name": "Music Festival",
+            "pluralName": "Music Festivals",
+            "shortName": "Music Festival",
+            "categories": []
+        }, {
+            "name": "Other Event",
+            "pluralName": "Other Events",
+            "shortName": "Other Event",
+            "categories": []
+        }, {
+            "name": "Parade",
+            "pluralName": "Parades",
+            "shortName": "Parade",
+            "categories": []
+        }, {
+            "name": "Stoop Sale",
+            "pluralName": "Stoop Sales",
+            "shortName": "Stoop Sale",
+            "categories": []
+        }, {
+            "name": "Street Fair",
+            "pluralName": "Street Fairs",
+            "shortName": "Fair",
+            "categories": []
+        }]
+    }, {
+        "name": "Food",
+        "pluralName": "Food",
+        "shortName": "Food",
+        "categories": [{
+            "name": "Afghan Restaurant",
+            "pluralName": "Afghan Restaurants",
+            "shortName": "Afghan",
+            "categories": []
+        }, {
+            "name": "African Restaurant",
+            "pluralName": "African Restaurants",
+            "shortName": "African",
+            "categories": [{
+                "name": "Ethiopian Restaurant",
+                "pluralName": "Ethiopian Restaurants",
+                "shortName": "Ethiopian",
+                "categories": []
+            }]
+        }, {
+            "name": "American Restaurant",
+            "pluralName": "American Restaurants",
+            "shortName": "American",
+            "categories": [{
+                "name": "New American Restaurant",
+                "pluralName": "New American Restaurants",
+                "shortName": "New American",
+                "categories": []
+            }]
+        }, {
+            "name": "Asian Restaurant",
+            "pluralName": "Asian Restaurants",
+            "shortName": "Asian",
+            "categories": [{
+                "name": "Burmese Restaurant",
+                "pluralName": "Burmese Restaurants",
+                "shortName": "Burmese",
+                "categories": []
+            }, {
+                "name": "Cambodian Restaurant",
+                "pluralName": "Cambodian Restaurants",
+                "shortName": "Cambodian",
+                "categories": []
+            }, {
+                "name": "Chinese Restaurant",
+                "pluralName": "Chinese Restaurants",
+                "shortName": "Chinese",
+                "categories": [{
+                    "name": "Anhui Restaurant",
+                    "pluralName": "Anhui Restaurants",
+                    "shortName": "Anhui",
+                    "categories": []
+                }, {
+                    "name": "Beijing Restaurant",
+                    "pluralName": "Beijing Restaurants",
+                    "shortName": "Beijing",
+                    "categories": []
+                }, {
+                    "name": "Cantonese Restaurant",
+                    "pluralName": "Cantonese Restaurants",
+                    "shortName": "Cantonese",
+                    "categories": []
+                }, {
+                    "name": "Chinese Aristocrat Restaurant",
+                    "pluralName": "Chinese Aristocrat Restaurants",
+                    "shortName": "Aristocrat",
+                    "categories": []
+                }, {
+                    "name": "Chinese Breakfast Place",
+                    "pluralName": "Chinese Breakfast Places",
+                    "shortName": "Chinese Breakfast",
+                    "categories": []
+                }, {
+                    "name": "Dim Sum Restaurant",
+                    "pluralName": "Dim Sum Restaurants",
+                    "shortName": "Dim Sum",
+                    "categories": []
+                }, {
+                    "name": "Dongbei Restaurant",
+                    "pluralName": "Dongbei Restaurants",
+                    "shortName": "Dongbei",
+                    "categories": []
+                }, {
+                    "name": "Fujian Restaurant",
+                    "pluralName": "Fujian Restaurants",
+                    "shortName": "Fujian",
+                    "categories": []
+                }, {
+                    "name": "Guizhou Restaurant",
+                    "pluralName": "Guizhou Restaurants",
+                    "shortName": "Guizhou",
+                    "categories": []
+                }, {
+                    "name": "Hainan Restaurant",
+                    "pluralName": "Hainan Restaurants",
+                    "shortName": "Hainan",
+                    "categories": []
+                }, {
+                    "name": "Hakka Restaurant",
+                    "pluralName": "Hakka Restaurants",
+                    "shortName": "Hakka",
+                    "categories": []
+                }, {
+                    "name": "Henan Restaurant",
+                    "pluralName": "Henan Restaurants",
+                    "shortName": "Henan",
+                    "categories": []
+                }, {
+                    "name": "Hong Kong Restaurant",
+                    "pluralName": "Hong Kong Restaurants",
+                    "shortName": "Hong Kong",
+                    "categories": []
+                }, {
+                    "name": "Huaiyang Restaurant",
+                    "pluralName": "Huaiyang Restaurants",
+                    "shortName": "Huaiyang",
+                    "categories": []
+                }, {
+                    "name": "Hubei Restaurant",
+                    "pluralName": "Hubei Restaurants",
+                    "shortName": "Hubei",
+                    "categories": []
+                }, {
+                    "name": "Hunan Restaurant",
+                    "pluralName": "Hunan Restaurants",
+                    "shortName": "Hunan",
+                    "categories": []
+                }, {
+                    "name": "Imperial Restaurant",
+                    "pluralName": "Imperial Restaurants",
+                    "shortName": "Imperial",
+                    "categories": []
+                }, {
+                    "name": "Jiangsu Restaurant",
+                    "pluralName": "Jiangsu Restaurants",
+                    "shortName": "Jiangsu",
+                    "categories": []
+                }, {
+                    "name": "Jiangxi Restaurant",
+                    "pluralName": "Jiangxi Restaurants",
+                    "shortName": "Jiangxi",
+                    "categories": []
+                }, {
+                    "name": "Macanese Restaurant",
+                    "pluralName": "Macanese Restaurants",
+                    "shortName": "Macanese",
+                    "categories": []
+                }, {
+                    "name": "Manchu Restaurant",
+                    "pluralName": "Manchu Restaurants",
+                    "shortName": "Manchu",
+                    "categories": []
+                }, {
+                    "name": "Peking Duck Restaurant",
+                    "pluralName": "Peking Duck Restaurants",
+                    "shortName": "Peking Duck",
+                    "categories": []
+                }, {
+                    "name": "Shaanxi Restaurant",
+                    "pluralName": "Shaanxi Restaurants",
+                    "shortName": "Shaanxi",
+                    "categories": []
+                }, {
+                    "name": "Shandong Restaurant",
+                    "pluralName": "Shandong Restaurants",
+                    "shortName": "Shandong",
+                    "categories": []
+                }, {
+                    "name": "Shanghai Restaurant",
+                    "pluralName": "Shanghai Restaurants",
+                    "shortName": "Shanghai",
+                    "categories": []
+                }, {
+                    "name": "Shanxi Restaurant",
+                    "pluralName": "Shanxi Restaurants",
+                    "shortName": "Shanxi",
+                    "categories": []
+                }, {
+                    "name": "Szechuan Restaurant",
+                    "pluralName": "Szechuan Restaurants",
+                    "shortName": "Szechuan",
+                    "categories": []
+                }, {
+                    "name": "Taiwanese Restaurant",
+                    "pluralName": "Taiwanese Restaurants",
+                    "shortName": "Taiwanese",
+                    "categories": []
+                }, {
+                    "name": "Tianjin Restaurant",
+                    "pluralName": "Tianjin Restaurants",
+                    "shortName": "Tianjin",
+                    "categories": []
+                }, {
+                    "name": "Xinjiang Restaurant",
+                    "pluralName": "Xinjiang Restaurants",
+                    "shortName": "Xinjiang",
+                    "categories": []
+                }, {
+                    "name": "Yunnan Restaurant",
+                    "pluralName": "Yunnan Restaurants",
+                    "shortName": "Yunnan",
+                    "categories": []
+                }, {
+                    "name": "Zhejiang Restaurant",
+                    "pluralName": "Zhejiang Restaurants",
+                    "shortName": "Zhejiang",
+                    "categories": []
+                }]
+            }, {
+                "name": "Filipino Restaurant",
+                "pluralName": "Filipino Restaurants",
+                "shortName": "Filipino",
+                "categories": []
+            }, {
+                "name": "Himalayan Restaurant",
+                "pluralName": "Himalayan Restaurants",
+                "shortName": "Himalayan",
+                "categories": []
+            }, {
+                "name": "Hotpot Restaurant",
+                "pluralName": "Hotpot Restaurants",
+                "shortName": "Hotpot",
+                "categories": []
+            }, {
+                "name": "Indonesian Restaurant",
+                "pluralName": "Indonesian Restaurants",
+                "shortName": "Indonesian",
+                "categories": [{
+                    "name": "Acehnese Restaurant",
+                    "pluralName": "Acehnese Restaurants",
+                    "shortName": "Acehnese",
+                    "categories": []
+                }, {
+                    "name": "Balinese Restaurant",
+                    "pluralName": "Balinese Restaurants",
+                    "shortName": "Balinese",
+                    "categories": []
+                }, {
+                    "name": "Betawinese Restaurant",
+                    "pluralName": "Betawinese Restaurants",
+                    "shortName": "Betawinese",
+                    "categories": []
+                }, {
+                    "name": "Indonesian Meatball Place",
+                    "pluralName": "Indonesian Meatball Places",
+                    "shortName": "Indonesian Meatball Place",
+                    "categories": []
+                }, {
+                    "name": "Javanese Restaurant",
+                    "pluralName": "Javanese Restaurants",
+                    "shortName": "Javanese",
+                    "categories": []
+                }, {
+                    "name": "Manadonese Restaurant",
+                    "pluralName": "Manadonese Restaurants",
+                    "shortName": "Manadonese",
+                    "categories": []
+                }, {
+                    "name": "Padangnese Restaurant",
+                    "pluralName": "Padangnese Restaurants",
+                    "shortName": "Padangnese",
+                    "categories": []
+                }, {
+                    "name": "Sundanese Restaurant",
+                    "pluralName": "Sundanese Restaurants",
+                    "shortName": "Sundanese",
+                    "categories": []
+                }]
+            }, {
+                "name": "Japanese Restaurant",
+                "pluralName": "Japanese Restaurants",
+                "shortName": "Japanese",
+                "categories": [{
+                    "name": "Donburi Restaurant",
+                    "pluralName": "Donburi Restaurants",
+                    "shortName": "Donburi",
+                    "categories": []
+                }, {
+                    "name": "Japanese Curry Restaurant",
+                    "pluralName": "Japanese Curry Restaurants",
+                    "shortName": "Japanese Curry",
+                    "categories": []
+                }, {
+                    "name": "Kaiseki Restaurant",
+                    "pluralName": "Kaiseki Restaurants",
+                    "shortName": "Kaiseki",
+                    "categories": []
+                }, {
+                    "name": "Kushikatsu Restaurant",
+                    "pluralName": "Kushikatsu Restaurants",
+                    "shortName": "Kushikatsu",
+                    "categories": []
+                }, {
+                    "name": "Monjayaki Restaurant",
+                    "pluralName": "Monjayaki Restaurants",
+                    "shortName": "Monjayaki",
+                    "categories": []
+                }, {
+                    "name": "Nabe Restaurant",
+                    "pluralName": "Nabe Restaurants",
+                    "shortName": "Nabe",
+                    "categories": []
+                }, {
+                    "name": "Okonomiyaki Restaurant",
+                    "pluralName": "Okonomiyaki Restaurants",
+                    "shortName": "Okonomiyaki",
+                    "categories": []
+                }, {
+                    "name": "Ramen Restaurant",
+                    "pluralName": "Ramen Restaurants",
+                    "shortName": "Ramen",
+                    "categories": []
+                }, {
+                    "name": "Shabu-Shabu Restaurant",
+                    "pluralName": "Shabu-Shabu Restaurants",
+                    "shortName": "Shabu-Shabu",
+                    "categories": []
+                }, {
+                    "name": "Soba Restaurant",
+                    "pluralName": "Soba Restaurants",
+                    "shortName": "Soba",
+                    "categories": []
+                }, {
+                    "name": "Sukiyaki Restaurant",
+                    "pluralName": "Sukiyaki Restaurants",
+                    "shortName": "Sukiyaki",
+                    "categories": []
+                }, {
+                    "name": "Sushi Restaurant",
+                    "pluralName": "Sushi Restaurants",
+                    "shortName": "Sushi",
+                    "categories": []
+                }, {
+                    "name": "Takoyaki Place",
+                    "pluralName": "Takoyaki Places",
+                    "shortName": "Takoyaki",
+                    "categories": []
+                }, {
+                    "name": "Tempura Restaurant",
+                    "pluralName": "Tempura Restaurants",
+                    "shortName": "Tempura",
+                    "categories": []
+                }, {
+                    "name": "Tonkatsu Restaurant",
+                    "pluralName": "Tonkatsu Restaurants",
+                    "shortName": "Tonkatsu",
+                    "categories": []
+                }, {
+                    "name": "Udon Restaurant",
+                    "pluralName": "Udon Restaurants",
+                    "shortName": "Udon",
+                    "categories": []
+                }, {
+                    "name": "Unagi Restaurant",
+                    "pluralName": "Unagi Restaurants",
+                    "shortName": "Unagi",
+                    "categories": []
+                }, {
+                    "name": "Wagashi Place",
+                    "pluralName": "Wagashi Places",
+                    "shortName": "Wagashi",
+                    "categories": []
+                }, {
+                    "name": "Yakitori Restaurant",
+                    "pluralName": "Yakitori Restaurants",
+                    "shortName": "Yakitori",
+                    "categories": []
+                }, {
+                    "name": "Yoshoku Restaurant",
+                    "pluralName": "Yoshoku Restaurants",
+                    "shortName": "Yoshoku",
+                    "categories": []
+                }]
+            }, {
+                "name": "Korean Restaurant",
+                "pluralName": "Korean Restaurants",
+                "shortName": "Korean",
+                "categories": [{
+                    "name": "Bossam/Jokbal Restaurant",
+                    "pluralName": "Bossam/Jokbal Restaurants",
+                    "shortName": "Bossam/Jokbal",
+                    "categories": []
+                }, {
+                    "name": "Bunsik Restaurant",
+                    "pluralName": "Bunsik Restaurants",
+                    "shortName": "Bunsik",
+                    "categories": []
+                }, {
+                    "name": "Gukbap Restaurant",
+                    "pluralName": "Gukbap Restaurants",
+                    "shortName": "Gukbap",
+                    "categories": []
+                }, {
+                    "name": "Janguh Restaurant",
+                    "pluralName": "Janguh Restaurants",
+                    "shortName": "Janguh",
+                    "categories": []
+                }, {
+                    "name": "Samgyetang Restaurant",
+                    "pluralName": "Samgyetang Restaurants",
+                    "shortName": "Samgyetang",
+                    "categories": []
+                }]
+            }, {
+                "name": "Malay Restaurant",
+                "pluralName": "Malay Restaurants",
+                "shortName": "Malay",
+                "categories": []
+            }, {
+                "name": "Mongolian Restaurant",
+                "pluralName": "Mongolian Restaurants",
+                "shortName": "Mongolian",
+                "categories": []
+            }, {
+                "name": "Noodle House",
+                "pluralName": "Noodle Houses",
+                "shortName": "Noodles",
+                "categories": []
+            }, {
+                "name": "Satay Restaurant",
+                "pluralName": "Satay Restaurants",
+                "shortName": "Satay",
+                "categories": []
+            }, {
+                "name": "Thai Restaurant",
+                "pluralName": "Thai Restaurants",
+                "shortName": "Thai",
+                "categories": [{
+                    "name": "Som Tum Restaurant",
+                    "pluralName": "Som Tum Restaurants",
+                    "shortName": "Som Tum",
+                    "categories": []
+                }]
+            }, {
+                "name": "Tibetan Restaurant",
+                "pluralName": "Tibetan Restaurants",
+                "shortName": "Tibetan",
+                "categories": []
+            }, {
+                "name": "Vietnamese Restaurant",
+                "pluralName": "Vietnamese Restaurants",
+                "shortName": "Vietnamese",
+                "categories": []
+            }]
+        }, {
+            "name": "Australian Restaurant",
+            "pluralName": "Australian Restaurants",
+            "shortName": "Australian",
+            "categories": []
+        }, {
+            "name": "Austrian Restaurant",
+            "pluralName": "Austrian Restaurants",
+            "shortName": "Austrian",
+            "categories": []
+        }, {
+            "name": "BBQ Joint",
+            "pluralName": "BBQ Joints",
+            "shortName": "BBQ",
+            "categories": []
+        }, {
+            "name": "Bagel Shop",
+            "pluralName": "Bagel Shops",
+            "shortName": "Bagels",
+            "categories": []
+        }, {
+            "name": "Bakery",
+            "pluralName": "Bakeries",
+            "shortName": "Bakery",
+            "categories": []
+        }, {
+            "name": "Belgian Restaurant",
+            "pluralName": "Belgian Restaurants",
+            "shortName": "Belgian",
+            "categories": []
+        }, {
+            "name": "Bistro",
+            "pluralName": "Bistros",
+            "shortName": "Bistro",
+            "categories": []
+        }, {
+            "name": "Brazilian Restaurant",
+            "pluralName": "Brazilian Restaurants",
+            "shortName": "Brazilian",
+            "categories": [{
+                "name": "Acai House",
+                "pluralName": "Acai Houses",
+                "shortName": "Acai",
+                "categories": []
+            }, {
+                "name": "Baiano Restaurant",
+                "pluralName": "Baiano Restaurants",
+                "shortName": "Baiano",
+                "categories": []
+            }, {
+                "name": "Central Brazilian Restaurant",
+                "pluralName": "Central Brazilian Restaurants",
+                "shortName": "Central Brazilian",
+                "categories": []
+            }, {
+                "name": "Churrascaria",
+                "pluralName": "Churrascarias",
+                "shortName": "Churrascaria",
+                "categories": []
+            }, {
+                "name": "Empada House",
+                "pluralName": "Empada Houses",
+                "shortName": "Empadas",
+                "categories": []
+            }, {
+                "name": "Goiano Restaurant",
+                "pluralName": "Goiano Restaurants",
+                "shortName": "Goiano",
+                "categories": []
+            }, {
+                "name": "Mineiro Restaurant",
+                "pluralName": "Mineiro Restaurants",
+                "shortName": "Mineiro",
+                "categories": []
+            }, {
+                "name": "Northeastern Brazilian Restaurant",
+                "pluralName": "Northeastern Brazilian Restaurants",
+                "shortName": "Northeastern Brazilian",
+                "categories": []
+            }, {
+                "name": "Northern Brazilian Restaurant",
+                "pluralName": "Northern Brazilian Restaurants",
+                "shortName": "Northern Brazilian",
+                "categories": []
+            }, {
+                "name": "Pastelaria",
+                "pluralName": "Pastelarias",
+                "shortName": "Pastelaria",
+                "categories": []
+            }, {
+                "name": "Southeastern Brazilian Restaurant",
+                "pluralName": "Southeastern Brazilian Restaurants",
+                "shortName": "Southeastern Brazilian",
+                "categories": []
+            }, {
+                "name": "Southern Brazilian Restaurant",
+                "pluralName": "Southern Brazilian Restaurants",
+                "shortName": "Southern Brazilian",
+                "categories": []
+            }, {
+                "name": "Tapiocaria",
+                "pluralName": "Tapiocarias",
+                "shortName": "Tapiocaria",
+                "categories": []
+            }]
+        }, {
+            "name": "Breakfast Spot",
+            "pluralName": "Breakfast Spots",
+            "shortName": "Breakfast",
+            "categories": []
+        }, {
+            "name": "Bubble Tea Shop",
+            "pluralName": "Bubble Tea Shops",
+            "shortName": "Bubble Tea",
+            "categories": []
+        }, {
+            "name": "Buffet",
+            "pluralName": "Buffets",
+            "shortName": "Buffet",
+            "categories": []
+        }, {
+            "name": "Burger Joint",
+            "pluralName": "Burger Joints",
+            "shortName": "Burgers",
+            "categories": []
+        }, {
+            "name": "Cafeteria",
+            "pluralName": "Cafeterias",
+            "shortName": "Cafeteria",
+            "categories": []
+        }, {
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "categories": []
+        }, {
+            "name": "Cajun / Creole Restaurant",
+            "pluralName": "Cajun / Creole Restaurants",
+            "shortName": "Cajun / Creole",
+            "categories": []
+        }, {
+            "name": "Caribbean Restaurant",
+            "pluralName": "Caribbean Restaurants",
+            "shortName": "Caribbean",
+            "categories": []
+        }, {
+            "name": "Caucasian Restaurant",
+            "pluralName": "Caucasian Restaurants",
+            "shortName": "Caucasian",
+            "categories": []
+        }, {
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "categories": []
+        }, {
+            "name": "Comfort Food Restaurant",
+            "pluralName": "Comfort Food Restaurants",
+            "shortName": "Comfort Food",
+            "categories": []
+        }, {
+            "name": "Creperie",
+            "pluralName": "Creperies",
+            "shortName": "Creperie",
+            "categories": []
+        }, {
+            "name": "Czech Restaurant",
+            "pluralName": "Czech Restaurants",
+            "shortName": "Czech",
+            "categories": []
+        }, {
+            "name": "Deli / Bodega",
+            "pluralName": "Delis / Bodegas",
+            "shortName": "Deli / Bodega",
+            "categories": []
+        }, {
+            "name": "Dessert Shop",
+            "pluralName": "Dessert Shops",
+            "shortName": "Desserts",
+            "categories": [{
+                "name": "Cupcake Shop",
+                "pluralName": "Cupcake Shops",
+                "shortName": "Cupcakes",
+                "categories": []
+            }, {
+                "name": "Frozen Yogurt",
+                "pluralName": "Frozen Yogurt",
+                "shortName": "Yogurt",
+                "categories": []
+            }, {
+                "name": "Ice Cream Shop",
+                "pluralName": "Ice Cream Shops",
+                "shortName": "Ice Cream",
+                "categories": []
+            }, {
+                "name": "Pie Shop",
+                "pluralName": "Pie Shops",
+                "shortName": "Pie Shop",
+                "categories": []
+            }]
+        }, {
+            "name": "Diner",
+            "pluralName": "Diners",
+            "shortName": "Diner",
+            "categories": []
+        }, {
+            "name": "Donut Shop",
+            "pluralName": "Donut Shops",
+            "shortName": "Donuts",
+            "categories": []
+        }, {
+            "name": "Dumpling Restaurant",
+            "pluralName": "Dumpling Restaurants",
+            "shortName": "Dumplings",
+            "categories": []
+        }, {
+            "name": "Eastern European Restaurant",
+            "pluralName": "Eastern European Restaurants",
+            "shortName": "Eastern European",
+            "categories": [{
+                "name": "Belarusian Restaurant",
+                "pluralName": "Belarusian Restaurants",
+                "shortName": "Belarusian",
+                "categories": []
+            }, {
+                "name": "Bulgarian Restaurant",
+                "pluralName": "Bulgarian Restaurants",
+                "shortName": "Bulgarian",
+                "categories": []
+            }, {
+                "name": "Romanian Restaurant",
+                "pluralName": "Romanian Restaurants",
+                "shortName": "Romanian",
+                "categories": []
+            }, {
+                "name": "Tatar Restaurant",
+                "pluralName": "Tatar Restaurants",
+                "shortName": "Tatar",
+                "categories": []
+            }]
+        }, {
+            "name": "English Restaurant",
+            "pluralName": "English Restaurants",
+            "shortName": "English",
+            "categories": []
+        }, {
+            "name": "Falafel Restaurant",
+            "pluralName": "Falafel Restaurants",
+            "shortName": "Falafel",
+            "categories": []
+        }, {
+            "name": "Fast Food Restaurant",
+            "pluralName": "Fast Food Restaurants",
+            "shortName": "Fast Food",
+            "categories": []
+        }, {
+            "name": "Fish & Chips Shop",
+            "pluralName": "Fish & Chips Shops",
+            "shortName": "Fish & Chips",
+            "categories": []
+        }, {
+            "name": "Fondue Restaurant",
+            "pluralName": "Fondue Restaurants",
+            "shortName": "Fondue",
+            "categories": []
+        }, {
+            "name": "Food Court",
+            "pluralName": "Food Courts",
+            "shortName": "Food Court",
+            "categories": []
+        }, {
+            "name": "Food Stand",
+            "pluralName": "Food Stands",
+            "shortName": "Food Stand",
+            "categories": []
+        }, {
+            "name": "Food Truck",
+            "pluralName": "Food Trucks",
+            "shortName": "Food Truck",
+            "categories": []
+        }, {
+            "name": "French Restaurant",
+            "pluralName": "French Restaurants",
+            "shortName": "French",
+            "categories": []
+        }, {
+            "name": "Fried Chicken Joint",
+            "pluralName": "Fried Chicken Joints",
+            "shortName": "Fried Chicken",
+            "categories": []
+        }, {
+            "name": "Friterie",
+            "pluralName": "Friteries",
+            "shortName": "Friterie",
+            "categories": []
+        }, {
+            "name": "Gastropub",
+            "pluralName": "Gastropubs",
+            "shortName": "Gastropub",
+            "categories": []
+        }, {
+            "name": "German Restaurant",
+            "pluralName": "German Restaurants",
+            "shortName": "German",
+            "categories": [{
+                "name": "Apple Wine Pub",
+                "pluralName": "Apple Wine Pubs",
+                "shortName": "Apple Wine",
+                "categories": []
+            }, {
+                "name": "Bavarian Restaurant",
+                "pluralName": "Bavarian Restaurants",
+                "shortName": "Bavarian",
+                "categories": []
+            }, {
+                "name": "Bratwurst Joint",
+                "pluralName": "Bratwurst Joints",
+                "shortName": "Bratwurst",
+                "categories": []
+            }, {
+                "name": "Currywurst Joint",
+                "pluralName": "Currywurst Joints",
+                "shortName": "Currywurst",
+                "categories": []
+            }, {
+                "name": "Franconian Restaurant",
+                "pluralName": "Franconian Restaurants",
+                "shortName": "Franconian",
+                "categories": []
+            }, {
+                "name": "German Pop-Up Restaurant",
+                "pluralName": "German Pop-Up Restaurants",
+                "shortName": "German Pop-Up Restaurant",
+                "categories": []
+            }, {
+                "name": "Palatine Restaurant",
+                "pluralName": "Palatine Restaurants",
+                "shortName": "Palatine",
+                "categories": []
+            }, {
+                "name": "Rhenisch Restaurant",
+                "pluralName": "Rhenisch Restaurants",
+                "shortName": "Rhenisch",
+                "categories": []
+            }, {
+                "name": "Schnitzel Restaurant",
+                "pluralName": "Schnitzel Restaurants",
+                "shortName": "Schnitzel",
+                "categories": []
+            }, {
+                "name": "Silesian Restaurant",
+                "pluralName": "Silesian Restaurants",
+                "shortName": "Silesian",
+                "categories": []
+            }, {
+                "name": "Swabian Restaurant",
+                "pluralName": "Swabian Restaurants",
+                "shortName": "Swabian",
+                "categories": []
+            }]
+        }, {
+            "name": "Gluten-free Restaurant",
+            "pluralName": "Gluten-free Restaurants",
+            "shortName": "Gluten-free",
+            "categories": []
+        }, {
+            "name": "Greek Restaurant",
+            "pluralName": "Greek Restaurants",
+            "shortName": "Greek",
+            "categories": [{
+                "name": "Bougatsa Shop",
+                "pluralName": "Bougatsa Shops",
+                "shortName": "Bougatsa Shops",
+                "categories": []
+            }, {
+                "name": "Cretan Restaurant",
+                "pluralName": "Cretan Restaurants",
+                "shortName": "Cretan Restaurants",
+                "categories": []
+            }, {
+                "name": "Fish Taverna",
+                "pluralName": "Fish Tavernas",
+                "shortName": "Fish Tavernas",
+                "categories": []
+            }, {
+                "name": "Grilled Meat Restaurant",
+                "pluralName": "Grilled Meat Restaurants",
+                "shortName": "Grilled Meat Restaurants",
+                "categories": []
+            }, {
+                "name": "Kafenio",
+                "pluralName": "Kafenia",
+                "shortName": "Kafenia",
+                "categories": []
+            }, {
+                "name": "Magirio",
+                "pluralName": "Magirio",
+                "shortName": "Magirio",
+                "categories": []
+            }, {
+                "name": "Meze Restaurant",
+                "pluralName": "Meze Restaurants",
+                "shortName": "Meze Restaurants",
+                "categories": []
+            }, {
+                "name": "Modern Greek Restaurant",
+                "pluralName": "Modern Greek Restaurants",
+                "shortName": "Modern Greek Restaurants",
+                "categories": []
+            }, {
+                "name": "Ouzeri",
+                "pluralName": "Ouzeries",
+                "shortName": "Ouzeries",
+                "categories": []
+            }, {
+                "name": "Patsa Restaurant",
+                "pluralName": "Patsa Restaurants",
+                "shortName": "Patsa Restaurants",
+                "categories": []
+            }, {
+                "name": "Souvlaki Shop",
+                "pluralName": "Souvlaki Shops",
+                "shortName": "Souvlaki",
+                "categories": []
+            }, {
+                "name": "Taverna",
+                "pluralName": "Tavernas",
+                "shortName": "Tavernas",
+                "categories": []
+            }, {
+                "name": "Tsipouro Restaurant",
+                "pluralName": "Tsipouro Restaurants",
+                "shortName": "Tsipouro Restaurants",
+                "categories": []
+            }]
+        }, {
+            "name": "Halal Restaurant",
+            "pluralName": "Halal Restaurants",
+            "shortName": "Halal",
+            "categories": []
+        }, {
+            "name": "Hawaiian Restaurant",
+            "pluralName": "Hawaiian Restaurants",
+            "shortName": "Hawaiian",
+            "categories": []
+        }, {
+            "name": "Hot Dog Joint",
+            "pluralName": "Hot Dog Joints",
+            "shortName": "Hot Dogs",
+            "categories": []
+        }, {
+            "name": "Hungarian Restaurant",
+            "pluralName": "Hungarian Restaurants",
+            "shortName": "Hungarian",
+            "categories": []
+        }, {
+            "name": "Indian Restaurant",
+            "pluralName": "Indian Restaurants",
+            "shortName": "Indian",
+            "categories": [{
+                "name": "Andhra Restaurant",
+                "pluralName": "Andhra Restaurants",
+                "shortName": "Andhra",
+                "categories": []
+            }, {
+                "name": "Awadhi Restaurant",
+                "pluralName": "Awadhi Restaurants",
+                "shortName": "Awadhi",
+                "categories": []
+            }, {
+                "name": "Bengali Restaurant",
+                "pluralName": "Bengali Restaurants",
+                "shortName": "Bengali",
+                "categories": []
+            }, {
+                "name": "Chaat Place",
+                "pluralName": "Chaat Places",
+                "shortName": "Chaat",
+                "categories": []
+            }, {
+                "name": "Chettinad Restaurant",
+                "pluralName": "Chettinad Restaurants",
+                "shortName": "Chettinad",
+                "categories": []
+            }, {
+                "name": "Dhaba",
+                "pluralName": "Dhabas",
+                "shortName": "Dhaba",
+                "categories": []
+            }, {
+                "name": "Dosa Place",
+                "pluralName": "Dosa Places",
+                "shortName": "Dosa",
+                "categories": []
+            }, {
+                "name": "Goan Restaurant",
+                "pluralName": "Goan Restaurants",
+                "shortName": "Goan",
+                "categories": []
+            }, {
+                "name": "Gujarati Restaurant",
+                "pluralName": "Gujarati Restaurants",
+                "shortName": "Gujarati",
+                "categories": []
+            }, {
+                "name": "Hyderabadi Restaurant",
+                "pluralName": "Hyderabadi Restaurants",
+                "shortName": "Hyderabadi",
+                "categories": []
+            }, {
+                "name": "Indian Chinese Restaurant",
+                "pluralName": "Indian Chinese Restaurants",
+                "shortName": "Indian Chinese",
+                "categories": []
+            }, {
+                "name": "Indian Sweet Shop",
+                "pluralName": "Indian Sweet Shops",
+                "shortName": "Indian Sweets",
+                "categories": []
+            }, {
+                "name": "Irani Cafe",
+                "pluralName": "Irani Cafes",
+                "shortName": "Irani",
+                "categories": []
+            }, {
+                "name": "Jain Restaurant",
+                "pluralName": "Jain Restaurants",
+                "shortName": "Jain",
+                "categories": []
+            }, {
+                "name": "Karnataka Restaurant",
+                "pluralName": "Karnataka Restaurants",
+                "shortName": "Karnataka",
+                "categories": []
+            }, {
+                "name": "Kerala Restaurant",
+                "pluralName": "Kerala Restaurants",
+                "shortName": "Kerala",
+                "categories": []
+            }, {
+                "name": "Maharashtrian Restaurant",
+                "pluralName": "Maharashtrian Restaurants",
+                "shortName": "Maharashtrian",
+                "categories": []
+            }, {
+                "name": "Mughlai Restaurant",
+                "pluralName": "Mughlai Restaurants",
+                "shortName": "Mughlai",
+                "categories": []
+            }, {
+                "name": "Multicuisine Indian Restaurant",
+                "pluralName": "Multicuisine Indian Restaurants",
+                "shortName": "Multicuisine Indian",
+                "categories": []
+            }, {
+                "name": "North Indian Restaurant",
+                "pluralName": "North Indian Restaurants",
+                "shortName": "North Indian",
+                "categories": []
+            }, {
+                "name": "Northeast Indian Restaurant",
+                "pluralName": "Northeast Indian Restaurants",
+                "shortName": "Northeast Indian",
+                "categories": []
+            }, {
+                "name": "Parsi Restaurant",
+                "pluralName": "Parsi Restaurants",
+                "shortName": "Parsi",
+                "categories": []
+            }, {
+                "name": "Punjabi Restaurant",
+                "pluralName": "Punjabi Restaurants",
+                "shortName": "Punjabi",
+                "categories": []
+            }, {
+                "name": "Rajasthani Restaurant",
+                "pluralName": "Rajasthani Restaurants",
+                "shortName": "Rajasthani",
+                "categories": []
+            }, {
+                "name": "South Indian Restaurant",
+                "pluralName": "South Indian Restaurants",
+                "shortName": "South Indian",
+                "categories": []
+            }, {
+                "name": "Udupi Restaurant",
+                "pluralName": "Udupi Restaurants",
+                "shortName": "Udupi",
+                "categories": []
+            }]
+        }, {
+            "name": "Irish Pub",
+            "pluralName": "Irish Pubs",
+            "shortName": "Irish",
+            "categories": []
+        }, {
+            "name": "Italian Restaurant",
+            "pluralName": "Italian Restaurants",
+            "shortName": "Italian",
+            "categories": [{
+                "name": "Abruzzo Restaurant",
+                "pluralName": "Abruzzo Restaurants",
+                "shortName": "Abruzzo",
+                "categories": []
+            }, {
+                "name": "Agriturismo",
+                "pluralName": "Agriturismos",
+                "shortName": "Agriturismo",
+                "categories": []
+            }, {
+                "name": "Aosta Restaurant",
+                "pluralName": "Aosta Restaurants",
+                "shortName": "Aosta",
+                "categories": []
+            }, {
+                "name": "Basilicata Restaurant",
+                "pluralName": "Basilicata Restaurants",
+                "shortName": "Basilicata",
+                "categories": []
+            }, {
+                "name": "Calabria Restaurant",
+                "pluralName": "Calabria Restaurants",
+                "shortName": "Calabria",
+                "categories": []
+            }, {
+                "name": "Campanian Restaurant",
+                "pluralName": "Campanian Restaurants",
+                "shortName": "Campanian",
+                "categories": []
+            }, {
+                "name": "Emilia Restaurant",
+                "pluralName": "Emilia Restaurants",
+                "shortName": "Emilia",
+                "categories": []
+            }, {
+                "name": "Friuli Restaurant",
+                "pluralName": "Friuli Restaurants",
+                "shortName": "Friuli",
+                "categories": []
+            }, {
+                "name": "Ligurian Restaurant",
+                "pluralName": "Ligurian Restaurants",
+                "shortName": "Ligurian",
+                "categories": []
+            }, {
+                "name": "Lombard Restaurant",
+                "pluralName": "Lombard Restaurants",
+                "shortName": "Lombard",
+                "categories": []
+            }, {
+                "name": "Malga",
+                "pluralName": "Malgas",
+                "shortName": "Malga",
+                "categories": []
+            }, {
+                "name": "Marche Restaurant",
+                "pluralName": "Marche Restaurants",
+                "shortName": "Marche",
+                "categories": []
+            }, {
+                "name": "Molise Restaurant",
+                "pluralName": "Molise Restaurants",
+                "shortName": "Molise",
+                "categories": []
+            }, {
+                "name": "Piadineria",
+                "pluralName": "Piadinerias",
+                "shortName": "Piadineria",
+                "categories": []
+            }, {
+                "name": "Piedmontese Restaurant",
+                "pluralName": "Piedmontese Restaurants",
+                "shortName": "Piedmontese",
+                "categories": []
+            }, {
+                "name": "Puglia Restaurant",
+                "pluralName": "Puglia Restaurants",
+                "shortName": "Puglia",
+                "categories": []
+            }, {
+                "name": "Romagna Restaurant",
+                "pluralName": "Romagna Restaurants",
+                "shortName": "Romagna",
+                "categories": []
+            }, {
+                "name": "Roman Restaurant",
+                "pluralName": "Roman Restaurants",
+                "shortName": "Roman",
+                "categories": []
+            }, {
+                "name": "Sardinian Restaurant",
+                "pluralName": "Sardinian Restaurants",
+                "shortName": "Sardinian",
+                "categories": []
+            }, {
+                "name": "Sicilian Restaurant",
+                "pluralName": "Sicilian Restaurants",
+                "shortName": "Sicilian",
+                "categories": []
+            }, {
+                "name": "South Tyrolean Restaurant",
+                "pluralName": "South Tyrolean Restaurants",
+                "shortName": "South Tyrolean",
+                "categories": []
+            }, {
+                "name": "Trattoria/Osteria",
+                "pluralName": "Trattorias/Osterias",
+                "shortName": "Trattoria/Osteria",
+                "categories": []
+            }, {
+                "name": "Trentino Restaurant",
+                "pluralName": "Trentino Restaurants",
+                "shortName": "Trentino",
+                "categories": []
+            }, {
+                "name": "Tuscan Restaurant",
+                "pluralName": "Tuscan Restaurants",
+                "shortName": "Tuscan",
+                "categories": []
+            }, {
+                "name": "Umbrian Restaurant",
+                "pluralName": "Umbrian Restaurants",
+                "shortName": "Umbrian",
+                "categories": []
+            }, {
+                "name": "Veneto Restaurant",
+                "pluralName": "Veneto Restaurants",
+                "shortName": "Veneto",
+                "categories": []
+            }]
+        }, {
+            "name": "Jewish Restaurant",
+            "pluralName": "Jewish Restaurants",
+            "shortName": "Jewish",
+            "categories": [{
+                "name": "Kosher Restaurant",
+                "pluralName": "Kosher Restaurants",
+                "shortName": "Kosher",
+                "categories": []
+            }]
+        }, {
+            "name": "Juice Bar",
+            "pluralName": "Juice Bars",
+            "shortName": "Juice Bar",
+            "categories": []
+        }, {
+            "name": "Latin American Restaurant",
+            "pluralName": "Latin American Restaurants",
+            "shortName": "Latin American",
+            "categories": [{
+                "name": "Arepa Restaurant",
+                "pluralName": "Arepa Restaurants",
+                "shortName": "Arepas",
+                "categories": []
+            }, {
+                "name": "Cuban Restaurant",
+                "pluralName": "Cuban Restaurants",
+                "shortName": "Cuban",
+                "categories": []
+            }, {
+                "name": "Empanada Restaurant",
+                "pluralName": "Empanada Restaurants",
+                "shortName": "Empanada",
+                "categories": []
+            }]
+        }, {
+            "name": "Mac & Cheese Joint",
+            "pluralName": "Mac & Cheese Joints",
+            "shortName": "Mac & Cheese",
+            "categories": []
+        }, {
+            "name": "Mediterranean Restaurant",
+            "pluralName": "Mediterranean Restaurants",
+            "shortName": "Mediterranean",
+            "categories": [{
+                "name": "Moroccan Restaurant",
+                "pluralName": "Moroccan Restaurants",
+                "shortName": "Moroccan",
+                "categories": []
+            }]
+        }, {
+            "name": "Mexican Restaurant",
+            "pluralName": "Mexican Restaurants",
+            "shortName": "Mexican",
+            "categories": [{
+                "name": "Burrito Place",
+                "pluralName": "Burrito Places",
+                "shortName": "Burritos",
+                "categories": []
+            }, {
+                "name": "Taco Place",
+                "pluralName": "Taco Places",
+                "shortName": "Tacos",
+                "categories": []
+            }, {
+                "name": "Tex-Mex Restaurant",
+                "pluralName": "Tex-Mex Restaurants",
+                "shortName": "Tex-Mex",
+                "categories": []
+            }]
+        }, {
+            "categories": [{
+                "name": "Israeli Restaurant",
+                "pluralName": "Israeli Restaurants",
+                "shortName": "Israeli",
+                "categories": []
+            }, {
+                "name": "Persian Restaurant",
+                "pluralName": "Persian Restaurants",
+                "shortName": "Persian",
+                "categories": []
+            }]
+        }, {
+            "name": "Modern European Restaurant",
+            "pluralName": "Modern European Restaurants",
+            "shortName": "Modern European",
+            "categories": []
+        }, {
+            "name": "Molecular Gastronomy Restaurant",
+            "pluralName": "Molecular Gastronomy Restaurants",
+            "shortName": "Molecular Gastronomy",
+            "categories": []
+        }, {
+            "name": "Pakistani Restaurant",
+            "pluralName": "Pakistani Restaurants",
+            "shortName": "Pakistani",
+            "categories": []
+        }, {
+            "name": "Pet Café",
+            "pluralName": "Pet Cafés",
+            "shortName": "Pet Café",
+            "categories": []
+        }, {
+            "name": "Pizza Place",
+            "pluralName": "Pizza Places",
+            "shortName": "Pizza",
+            "categories": []
+        }, {
+            "name": "Polish Restaurant",
+            "pluralName": "Polish Restaurants",
+            "shortName": "Polish",
+            "categories": []
+        }, {
+            "name": "Portuguese Restaurant",
+            "pluralName": "Portuguese Restaurants",
+            "shortName": "Portuguese",
+            "categories": []
+        }, {
+            "name": "Poutine Place",
+            "pluralName": "Poutine Places",
+            "shortName": "Poutine Place",
+            "categories": []
+        }, {
+            "name": "Restaurant",
+            "pluralName": "Restaurants",
+            "shortName": "Restaurant",
+            "categories": []
+        }, {
+            "name": "Russian Restaurant",
+            "pluralName": "Russian Restaurants",
+            "shortName": "Russian",
+            "categories": [{
+                "name": "Blini House",
+                "pluralName": "Blini Houses",
+                "shortName": "Blini",
+                "categories": []
+            }, {
+                "name": "Pelmeni House",
+                "pluralName": "Pelmeni Houses",
+                "shortName": "Pelmeni",
+                "categories": []
+            }]
+        }, {
+            "name": "Salad Place",
+            "pluralName": "Salad Places",
+            "shortName": "Salad",
+            "categories": []
+        }, {
+            "name": "Sandwich Place",
+            "pluralName": "Sandwich Places",
+            "shortName": "Sandwiches",
+            "categories": []
+        }, {
+            "name": "Scandinavian Restaurant",
+            "pluralName": "Scandinavian Restaurants",
+            "shortName": "Scandinavian",
+            "categories": []
+        }, {
+            "name": "Seafood Restaurant",
+            "pluralName": "Seafood Restaurants",
+            "shortName": "Seafood",
+            "categories": []
+        }, {
+            "name": "Slovak Restaurant",
+            "pluralName": "Slovak Restaurants",
+            "shortName": "Slovak",
+            "categories": []
+        }, {
+            "name": "Snack Place",
+            "pluralName": "Snack Places",
+            "shortName": "Snacks",
+            "categories": []
+        }, {
+            "name": "Soup Place",
+            "pluralName": "Soup Places",
+            "shortName": "Soup",
+            "categories": []
+        }, {
+            "name": "South American Restaurant",
+            "pluralName": "South American Restaurants",
+            "shortName": "South American",
+            "categories": [{
+                "name": "Argentinian Restaurant",
+                "pluralName": "Argentinian Restaurants",
+                "shortName": "Argentinian",
+                "categories": []
+            }, {
+                "name": "Peruvian Restaurant",
+                "pluralName": "Peruvian Restaurants",
+                "shortName": "Peruvian",
+                "categories": []
+            }, {
+                "name": "Venezuelan Restaurant",
+                "pluralName": "Venezuelan Restaurants",
+                "shortName": "Venezuelan",
+                "categories": []
+            }]
+        }, {
+            "name": "Southern / Soul Food Restaurant",
+            "pluralName": "Southern / Soul Food Restaurants",
+            "shortName": "Southern / Soul",
+            "categories": []
+        }, {
+            "name": "Spanish Restaurant",
+            "pluralName": "Spanish Restaurants",
+            "shortName": "Spanish",
+            "categories": [{
+                "name": "Paella Restaurant",
+                "pluralName": "Paella Restaurants",
+                "shortName": "Paella",
+                "categories": []
+            }, {
+                "name": "Tapas Restaurant",
+                "pluralName": "Tapas Restaurants",
+                "shortName": "Tapas",
+                "categories": []
+            }]
+        }, {
+            "name": "Sri Lankan Restaurant",
+            "pluralName": "Sri Lankan Restaurants",
+            "shortName": "Sri Lankan",
+            "categories": []
+        }, {
+            "name": "Steakhouse",
+            "pluralName": "Steakhouses",
+            "shortName": "Steakhouse",
+            "categories": []
+        }, {
+            "name": "Swiss Restaurant",
+            "pluralName": "Swiss Restaurants",
+            "shortName": "Swiss",
+            "categories": []
+        }, {
+            "name": "Tea Room",
+            "pluralName": "Tea Rooms",
+            "shortName": "Tea Room",
+            "categories": []
+        }, {
+            "name": "Theme Restaurant",
+            "pluralName": "Theme Restaurants",
+            "shortName": "Theme Restaurant",
+            "categories": []
+        }, {
+            "name": "Turkish Restaurant",
+            "pluralName": "Turkish Restaurants",
+            "shortName": "Turkish",
+            "categories": [{
+                "name": "Borek Place",
+                "pluralName": "Borek Places",
+                "shortName": "Borek",
+                "categories": []
+            }, {
+                "name": "Cigkofte Place",
+                "pluralName": "Cigkofte Places",
+                "shortName": "Cigkofte",
+                "categories": []
+            }, {
+                "name": "Doner Restaurant",
+                "pluralName": "Doner Restaurants",
+                "shortName": "Doner",
+                "categories": []
+            }, {
+                "name": "Gozleme Place",
+                "pluralName": "Gozleme Places",
+                "shortName": "Gozleme",
+                "categories": []
+            }, {
+                "name": "Kebab Restaurant",
+                "pluralName": "Kebab Restaurants",
+                "shortName": "Kebab",
+                "categories": []
+            }, {
+                "name": "Kofte Place",
+                "pluralName": "Kofte Places",
+                "shortName": "Kofte",
+                "categories": []
+            }, {
+                "name": "Kokoreç Restaurant",
+                "pluralName": "Kokoreç Restaurants",
+                "shortName": "Kokoreç",
+                "categories": []
+            }, {
+                "name": "Kumpir Restaurant",
+                "pluralName": "Kumpir Restaurants",
+                "shortName": "Kumpir",
+                "categories": []
+            }, {
+                "name": "Kumru Restaurant",
+                "pluralName": "Kumru Restaurants",
+                "shortName": "Kumru",
+                "categories": []
+            }, {
+                "name": "Manti Place",
+                "pluralName": "Manti Places",
+                "shortName": "Manti",
+                "categories": []
+            }, {
+                "name": "Meyhane",
+                "pluralName": "Meyhanes",
+                "shortName": "Meyhane",
+                "categories": []
+            }, {
+                "categories": []
+            }, {
+                "name": "Tantuni Restaurant",
+                "pluralName": "Tantuni Restaurants",
+                "shortName": "Tantuni",
+                "categories": []
+            }, {
+                "name": "Turkish Coffeehouse",
+                "pluralName": "Turkish Coffeehouses",
+                "shortName": "Turkish Coffeehouse",
+                "categories": []
+            }, {
+                "name": "Turkish Home Cooking Restaurant",
+                "pluralName": "Turkish Home Cooking Restaurants",
+                "shortName": "Turkish Home Cooking",
+                "categories": []
+            }]
+        }, {
+            "name": "Ukrainian Restaurant",
+            "pluralName": "Ukrainian Restaurants",
+            "shortName": "Ukrainian",
+            "categories": [{
+                "name": "Varenyky restaurant",
+                "pluralName": "Varenyky Restaurants",
+                "shortName": "Varenyky",
+                "categories": []
+            }, {
+                "name": "West-Ukrainian Restaurant",
+                "pluralName": "West-Ukrainian Restaurants",
+                "shortName": "West-Ukrainian",
+                "categories": []
+            }]
+        }, {
+            "name": "Vegetarian / Vegan Restaurant",
+            "pluralName": "Vegetarian / Vegan Restaurants",
+            "shortName": "Vegetarian / Vegan",
+            "categories": []
+        }, {
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "categories": []
+        }]
+    }, {
+        "name": "Nightlife Spot",
+        "pluralName": "Nightlife Spots",
+        "shortName": "Nightlife",
+        "categories": [{
+            "name": "Bar",
+            "pluralName": "Bars",
+            "shortName": "Bar",
+            "categories": [{
+                "name": "Beach Bar",
+                "pluralName": "Beach Bars",
+                "shortName": "Beach Bar",
+                "categories": []
+            }, {
+                "name": "Beer Bar",
+                "pluralName": "Beer Bars",
+                "shortName": "Beer Bar",
+                "categories": []
+            }, {
+                "name": "Beer Garden",
+                "pluralName": "Beer Gardens",
+                "shortName": "Beer Garden",
+                "categories": []
+            }, {
+                "name": "Champagne Bar",
+                "pluralName": "Champagne Bars",
+                "shortName": "Champagne Bar",
+                "categories": []
+            }, {
+                "name": "Cocktail Bar",
+                "pluralName": "Cocktail Bars",
+                "shortName": "Cocktail",
+                "categories": []
+            }, {
+                "name": "Dive Bar",
+                "pluralName": "Dive Bars",
+                "shortName": "Dive Bar",
+                "categories": []
+            }, {
+                "name": "Gay Bar",
+                "pluralName": "Gay Bars",
+                "shortName": "Gay Bar",
+                "categories": []
+            }, {
+                "name": "Hookah Bar",
+                "pluralName": "Hookah Bars",
+                "shortName": "Hookah Bar",
+                "categories": []
+            }, {
+                "name": "Hotel Bar",
+                "pluralName": "Hotel Bars",
+                "shortName": "Hotel Bar",
+                "categories": []
+            }, {
+                "name": "Karaoke Bar",
+                "pluralName": "Karaoke Bars",
+                "shortName": "Karaoke",
+                "categories": []
+            }, {
+                "name": "Pub",
+                "pluralName": "Pubs",
+                "shortName": "Pub",
+                "categories": []
+            }, {
+                "name": "Sake Bar",
+                "pluralName": "Sake Bars",
+                "shortName": "Sake Bar",
+                "categories": []
+            }, {
+                "name": "Sports Bar",
+                "pluralName": "Sports Bars",
+                "shortName": "Sports Bar",
+                "categories": []
+            }, {
+                "name": "Tiki Bar",
+                "pluralName": "Tiki Bars",
+                "shortName": "Tiki Bar",
+                "categories": []
+            }, {
+                "name": "Whisky Bar",
+                "pluralName": "Whisky Bars",
+                "shortName": "Whisky Bar",
+                "categories": []
+            }, {
+                "name": "Wine Bar",
+                "pluralName": "Wine Bars",
+                "shortName": "Wine Bar",
+                "categories": []
+            }]
+        }, {
+            "name": "Brewery",
+            "pluralName": "Breweries",
+            "shortName": "Brewery",
+            "categories": []
+        }, {
+            "name": "Lounge",
+            "pluralName": "Lounges",
+            "shortName": "Lounge",
+            "categories": []
+        }, {
+            "name": "Night Market",
+            "pluralName": "Night Markets",
+            "shortName": "Night Market",
+            "categories": []
+        }, {
+            "name": "Nightclub",
+            "pluralName": "Nightclubs",
+            "shortName": "Nightclub",
+            "categories": []
+        }, {
+            "name": "Other Nightlife",
+            "pluralName": "Other Nightlife",
+            "shortName": "Nightlife",
+            "categories": []
+        }, {
+            "name": "Speakeasy",
+            "pluralName": "Speakeasies",
+            "shortName": "Speakeasy",
+            "categories": []
+        }, {
+            "name": "Strip Club",
+            "pluralName": "Strip Clubs",
+            "shortName": "Strip Club",
+            "categories": []
+        }]
+    }, {
+        "name": "Outdoors & Recreation",
+        "pluralName": "Outdoors & Recreation",
+        "shortName": "Outdoors & Recreation",
+        "categories": [{
+            "name": "Athletics & Sports",
+            "pluralName": "Athletics & Sports",
+            "shortName": "Athletics & Sports",
+            "categories": [{
+                "name": "Badminton Court",
+                "pluralName": "Badminton Courts",
+                "shortName": "Badminton Court",
+                "categories": []
+            }, {
+                "name": "Baseball Field",
+                "pluralName": "Baseball Fields",
+                "shortName": "Baseball Field",
+                "categories": []
+            }, {
+                "name": "Basketball Court",
+                "pluralName": "Basketball Courts",
+                "shortName": "Basketball Court",
+                "categories": []
+            }, {
+                "name": "Bowling Green",
+                "pluralName": "Bowling Greens",
+                "shortName": "Bowling Green",
+                "categories": []
+            }, {
+                "name": "Curling Ice",
+                "pluralName": "Curling Ices",
+                "shortName": "Curling Ice",
+                "categories": []
+            }, {
+                "name": "Golf Course",
+                "pluralName": "Golf Courses",
+                "shortName": "Golf Course",
+                "categories": []
+            }, {
+                "name": "Gym / Fitness Center",
+                "pluralName": "Gyms or Fitness Centers",
+                "shortName": "Gym / Fitness",
+                "categories": [{
+                    "name": "Boxing Gym",
+                    "pluralName": "Boxing Gyms",
+                    "shortName": "Boxing Gym",
+                    "categories": []
+                }, {
+                    "name": "Climbing Gym",
+                    "pluralName": "Climbing Gyms",
+                    "shortName": "Climbing Gym",
+                    "categories": []
+                }, {
+                    "name": "Cycle Studio",
+                    "pluralName": "Cycle Studios",
+                    "shortName": "Cycle Studio",
+                    "categories": []
+                }, {
+                    "name": "Gym Pool",
+                    "pluralName": "Gym Pools",
+                    "shortName": "Pool",
+                    "categories": []
+                }, {
+                    "name": "Gymnastics Gym",
+                    "pluralName": "Gymnastics Gyms",
+                    "shortName": "Gymnastics Gym",
+                    "categories": []
+                }, {
+                    "name": "Gym",
+                    "pluralName": "Gyms",
+                    "shortName": "Gym",
+                    "categories": []
+                }, {
+                    "name": "Martial Arts Dojo",
+                    "pluralName": "Martial Arts Dojos",
+                    "shortName": "Martial Arts",
+                    "categories": []
+                }, {
+                    "name": "Track",
+                    "pluralName": "Tracks",
+                    "shortName": "Track",
+                    "categories": []
+                }, {
+                    "name": "Yoga Studio",
+                    "pluralName": "Yoga Studios",
+                    "shortName": "Yoga Studio",
+                    "categories": []
+                }]
+            }, {
+                "name": "Hockey Field",
+                "pluralName": "Hockey Fields",
+                "shortName": "Hockey Field",
+                "categories": []
+            }, {
+                "name": "Hockey Rink",
+                "pluralName": "Hockey Rinks",
+                "shortName": "Hockey Rink",
+                "categories": []
+            }, {
+                "name": "Paintball Field",
+                "pluralName": "Paintball Fields",
+                "shortName": "Paintball Field",
+                "categories": []
+            }, {
+                "name": "Rugby Pitch",
+                "pluralName": "Rugby Pitches",
+                "shortName": "Pitch",
+                "categories": []
+            }, {
+                "name": "Skate Park",
+                "pluralName": "Skate Parks",
+                "shortName": "Skate Park",
+                "categories": []
+            }, {
+                "name": "Skating Rink",
+                "pluralName": "Skating Rinks",
+                "shortName": "Skating Rink",
+                "categories": []
+            }, {
+                "name": "Soccer Field",
+                "pluralName": "Soccer Fields",
+                "shortName": "Soccer Field",
+                "categories": []
+            }, {
+                "name": "Sports Club",
+                "pluralName": "Sports Clubs",
+                "shortName": "Sports Club",
+                "categories": []
+            }, {
+                "name": "Squash Court",
+                "pluralName": "Squash Courts",
+                "shortName": "Squash Court",
+                "categories": []
+            }, {
+                "name": "Tennis Court",
+                "pluralName": "Tennis Courts",
+                "shortName": "Tennis Court",
+                "categories": []
+            }, {
+                "name": "Volleyball Court",
+                "pluralName": "Volleyball Courts",
+                "shortName": "Volleyball Court",
+                "categories": []
+            }]
+        }, {
+            "name": "Bathing Area",
+            "pluralName": "Bathing Areas",
+            "shortName": "Bathing Area",
+            "categories": []
+        }, {
+            "name": "Bay",
+            "pluralName": "Bays",
+            "shortName": "Bay",
+            "categories": []
+        }, {
+            "name": "Beach",
+            "pluralName": "Beaches",
+            "shortName": "Beach",
+            "categories": [{
+                "name": "Nudist Beach",
+                "pluralName": "Nudist Beaches",
+                "shortName": "Nudist Beach",
+                "categories": []
+            }, {
+                "name": "Surf Spot",
+                "pluralName": "Surf Spots",
+                "shortName": "Surf Spot",
+                "categories": []
+            }]
+        }, {
+            "name": "Bike Trail",
+            "pluralName": "Bike Trails",
+            "shortName": "Bike Trail",
+            "categories": []
+        }, {
+            "name": "Botanical Garden",
+            "pluralName": "Botanical Gardens",
+            "shortName": "Botanical Garden",
+            "categories": []
+        }, {
+            "categories": []
+        }, {
+            "name": "Campground",
+            "pluralName": "Campgrounds",
+            "shortName": "Campground",
+            "categories": []
+        }, {
+            "name": "Canal Lock",
+            "pluralName": "Canal Locks",
+            "shortName": "Canal Lock",
+            "categories": []
+        }, {
+            "name": "Canal",
+            "pluralName": "Canals",
+            "shortName": "Canal",
+            "categories": []
+        }, {
+            "name": "Castle",
+            "pluralName": "Castles",
+            "shortName": "Castle",
+            "categories": []
+        }, {
+            "name": "Cave",
+            "pluralName": "Caves",
+            "shortName": "Cave",
+            "categories": []
+        }, {
+            "name": "Cemetery",
+            "pluralName": "Cemeteries",
+            "shortName": "Cemetery",
+            "categories": []
+        }, {
+            "name": "Dive Spot",
+            "pluralName": "Dive Spots",
+            "shortName": "Dive Spot",
+            "categories": []
+        }, {
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "categories": []
+        }, {
+            "name": "Farm",
+            "pluralName": "Farms",
+            "shortName": "Farm",
+            "categories": []
+        }, {
+            "name": "Field",
+            "pluralName": "Fields",
+            "shortName": "Field",
+            "categories": []
+        }, {
+            "name": "Fishing Spot",
+            "pluralName": "Fishing Spots",
+            "shortName": "Fishing Spot",
+            "categories": []
+        }, {
+            "name": "Forest",
+            "pluralName": "Forests",
+            "shortName": "Forest",
+            "categories": []
+        }, {
+            "name": "Fountain",
+            "pluralName": "Fountains",
+            "shortName": "Fountain",
+            "categories": []
+        }, {
+            "name": "Garden",
+            "pluralName": "Gardens",
+            "shortName": "Garden",
+            "categories": []
+        }, {
+            "name": "Gun Range",
+            "pluralName": "Gun Ranges",
+            "shortName": "Gun Range",
+            "categories": []
+        }, {
+            "name": "Harbor / Marina",
+            "pluralName": "Harbors / Marinas",
+            "shortName": "Harbor / Marina",
+            "categories": []
+        }, {
+            "name": "Hot Spring",
+            "pluralName": "Hot Springs",
+            "shortName": "Hot Spring",
+            "categories": []
+        }, {
+            "name": "Island",
+            "pluralName": "Islands",
+            "shortName": "Island",
+            "categories": []
+        }, {
+            "name": "Lake",
+            "pluralName": "Lakes",
+            "shortName": "Lake",
+            "categories": []
+        }, {
+            "name": "Lighthouse",
+            "pluralName": "Lighthouses",
+            "shortName": "Lighthouse",
+            "categories": []
+        }, {
+            "name": "Mountain Hut",
+            "pluralName": "Mountain Hut",
+            "shortName": "Mountain Hut",
+            "categories": []
+        }, {
+            "name": "Mountain",
+            "pluralName": "Mountains",
+            "shortName": "Mountain",
+            "categories": []
+        }, {
+            "name": "National Park",
+            "pluralName": "National Parks",
+            "shortName": "National Park",
+            "categories": []
+        }, {
+            "name": "Nature Preserve",
+            "pluralName": "Nature Preserves",
+            "shortName": "Preserve",
+            "categories": []
+        }, {
+            "name": "Other Great Outdoors",
+            "pluralName": "Other Great Outdoors",
+            "shortName": "Other Outdoors",
+            "categories": []
+        }, {
+            "name": "Palace",
+            "pluralName": "Palaces",
+            "shortName": "Palace",
+            "categories": []
+        }, {
+            "name": "Park",
+            "pluralName": "Parks",
+            "shortName": "Park",
+            "categories": []
+        }, {
+            "name": "Pedestrian Plaza",
+            "pluralName": "Pedestrian Plazas",
+            "shortName": "Pedestrian Street/Plaza",
+            "categories": []
+        }, {
+            "name": "Playground",
+            "pluralName": "Playgrounds",
+            "shortName": "Playground",
+            "categories": []
+        }, {
+            "name": "Plaza",
+            "pluralName": "Plazas",
+            "shortName": "Plaza",
+            "categories": []
+        }, {
+            "name": "Pool",
+            "pluralName": "Pools",
+            "shortName": "Pool",
+            "categories": []
+        }, {
+            "name": "Rafting",
+            "pluralName": "Rafting Spots",
+            "shortName": "Rafting",
+            "categories": []
+        }, {
+            "name": "Recreation Center",
+            "pluralName": "Recreation Centers",
+            "shortName": "Recreation Center",
+            "categories": []
+        }, {
+            "name": "Reservoir",
+            "pluralName": "Reservoirs",
+            "shortName": "Reservoir",
+            "categories": []
+        }, {
+            "name": "River",
+            "pluralName": "Rivers",
+            "shortName": "River",
+            "categories": []
+        }, {
+            "name": "Rock Climbing Spot",
+            "pluralName": "Rock Climbing Spots",
+            "shortName": "Rock Climbing",
+            "categories": []
+        }, {
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "categories": []
+        }, {
+            "name": "Sculpture Garden",
+            "pluralName": "Sculpture Gardens",
+            "shortName": "Sculpture",
+            "categories": []
+        }, {
+            "name": "Ski Area",
+            "pluralName": "Ski Areas",
+            "shortName": "Ski Area",
+            "categories": [{
+                "name": "Apres Ski Bar",
+                "pluralName": "Apres Ski Bars",
+                "shortName": "Apres Ski Bar",
+                "categories": []
+            }, {
+                "name": "Ski Chairlift",
+                "pluralName": "Ski Chairlifts",
+                "shortName": "Chairlift",
+                "categories": []
+            }, {
+                "name": "Ski Chalet",
+                "pluralName": "Ski Chalets",
+                "shortName": "Ski Chalet",
+                "categories": []
+            }, {
+                "name": "Ski Lodge",
+                "pluralName": "Ski Lodges",
+                "shortName": "Lodge",
+                "categories": []
+            }, {
+                "name": "Ski Trail",
+                "pluralName": "Ski Trails",
+                "shortName": "Trail",
+                "categories": []
+            }]
+        }, {
+            "name": "Stables",
+            "pluralName": "Stables",
+            "shortName": "Stables",
+            "categories": []
+        }, {
+            "name": "States & Municipalities",
+            "pluralName": "States & Municipalities",
+            "shortName": "States & Municipalities",
+            "categories": [{
+                "name": "City",
+                "pluralName": "Cities",
+                "shortName": "City",
+                "categories": []
+            }, {
+                "name": "County",
+                "pluralName": "Counties",
+                "shortName": "County",
+                "categories": []
+            }, {
+                "name": "Country",
+                "pluralName": "Countries",
+                "shortName": "Country",
+                "categories": []
+            }, {
+                "name": "Neighborhood",
+                "pluralName": "Neighborhoods",
+                "shortName": "Neighborhood",
+                "categories": []
+            }, {
+                "name": "State",
+                "pluralName": "States",
+                "shortName": "State",
+                "categories": []
+            }, {
+                "name": "Town",
+                "pluralName": "Towns",
+                "shortName": "Town",
+                "categories": []
+            }, {
+                "name": "Village",
+                "pluralName": "Villages",
+                "shortName": "Village",
+                "categories": []
+            }]
+        }, {
+            "name": "Summer Camp",
+            "pluralName": "Summer Camps",
+            "shortName": "Summer Camp",
+            "categories": []
+        }, {
+            "name": "Trail",
+            "pluralName": "Trails",
+            "shortName": "Trail",
+            "categories": []
+        }, {
+            "name": "Tree",
+            "pluralName": "Trees",
+            "shortName": "Tree",
+            "categories": []
+        }, {
+            "name": "Vineyard",
+            "pluralName": "Vineyards",
+            "shortName": "Vineyard",
+            "categories": []
+        }, {
+            "name": "Volcano",
+            "pluralName": "Volcanoes",
+            "shortName": "Volcano",
+            "categories": []
+        }, {
+            "name": "Waterfall",
+            "pluralName": "Waterfalls",
+            "shortName": "Waterfall",
+            "categories": []
+        }, {
+            "name": "Waterfront",
+            "pluralName": "Waterfronts",
+            "shortName": "Waterfront",
+            "categories": []
+        }, {
+            "name": "Well",
+            "pluralName": "Wells",
+            "shortName": "Well",
+            "categories": []
+        }]
+    }, {
+        "name": "Professional & Other Places",
+        "pluralName": "Professional & Other Places",
+        "shortName": "Professional",
+        "categories": [{
+            "name": "Animal Shelter",
+            "pluralName": "Animal Shelters",
+            "shortName": "Animal Shelter",
+            "categories": []
+        }, {
+            "name": "Auditorium",
+            "pluralName": "Auditoriums",
+            "shortName": "Auditorium",
+            "categories": []
+        }, {
+            "name": "Ballroom",
+            "pluralName": "Ballrooms",
+            "shortName": "Ballroom",
+            "categories": []
+        }, {
+            "name": "Building",
+            "pluralName": "Buildings",
+            "shortName": "Building",
+            "categories": []
+        }, {
+            "name": "Business Center",
+            "pluralName": "Business Centers",
+            "shortName": "Business Center",
+            "categories": []
+        }, {
+            "name": "Club House",
+            "pluralName": "Club Houses",
+            "shortName": "Club",
+            "categories": []
+        }, {
+            "name": "Community Center",
+            "pluralName": "Community Centers",
+            "shortName": "Community Center",
+            "categories": []
+        }, {
+            "name": "Convention Center",
+            "pluralName": "Convention Centers",
+            "shortName": "Convention Center",
+            "categories": [{
+                "name": "Meeting Room",
+                "pluralName": "Meeting Rooms",
+                "shortName": "Meeting Room",
+                "categories": []
+            }]
+        }, {
+            "name": "Cultural Center",
+            "pluralName": "Cultural Centers",
+            "shortName": "Cultural Center",
+            "categories": []
+        }, {
+            "name": "Distillery",
+            "pluralName": "Distilleries",
+            "shortName": "Distillery",
+            "categories": []
+        }, {
+            "name": "Distribution Center",
+            "pluralName": "Distribution Centers",
+            "shortName": "Distributor",
+            "categories": []
+        }, {
+            "name": "Event Space",
+            "pluralName": "Event Spaces",
+            "shortName": "Event Space",
+            "categories": [{
+                "name": "Outdoor Event Space",
+                "pluralName": "Outdoor Event Spaces",
+                "shortName": "Outdoor Event Space",
+                "categories": []
+            }]
+        }, {
+            "name": "Factory",
+            "pluralName": "Factories",
+            "shortName": "Factory",
+            "categories": []
+        }, {
+            "name": "Fair",
+            "pluralName": "Fairs",
+            "shortName": "Fair",
+            "categories": []
+        }, {
+            "name": "Funeral Home",
+            "pluralName": "Funeral Homes",
+            "shortName": "Funeral Home",
+            "categories": []
+        }, {
+            "name": "Government Building",
+            "pluralName": "Government Buildings",
+            "shortName": "Government",
+            "categories": [{
+                "name": "Capitol Building",
+                "pluralName": "Capitol Buildings",
+                "shortName": "Capitol Building",
+                "categories": []
+            }, {
+                "name": "City Hall",
+                "pluralName": "City Halls",
+                "shortName": "City Hall",
+                "categories": []
+            }, {
+                "name": "Courthouse",
+                "pluralName": "Courthouses",
+                "shortName": "Courthouse",
+                "categories": []
+            }, {
+                "name": "Embassy / Consulate",
+                "pluralName": "Embassies / Consulates",
+                "shortName": "Embassy",
+                "categories": []
+            }, {
+                "name": "Fire Station",
+                "pluralName": "Fire Stations",
+                "shortName": "Fire Station",
+                "categories": []
+            }, {
+                "name": "Monument / Landmark",
+                "pluralName": "Monuments / Landmarks",
+                "shortName": "Landmark",
+                "categories": []
+            }, {
+                "name": "Police Station",
+                "pluralName": "Police Stations",
+                "shortName": "Police Station",
+                "categories": []
+            }, {
+                "name": "Town Hall",
+                "pluralName": "Town Halls",
+                "shortName": "Town Hall",
+                "categories": []
+            }]
+        }, {
+            "name": "Industrial Estate",
+            "pluralName": "Industrial Estates",
+            "shortName": "Industrial Estate",
+            "categories": []
+        }, {
+            "name": "Library",
+            "pluralName": "Libraries",
+            "shortName": "Library",
+            "categories": []
+        }, {
+            "name": "Medical Center",
+            "pluralName": "Medical Centers",
+            "shortName": "Medical",
+            "categories": [{
+                "name": "Acupuncturist",
+                "pluralName": "Acupuncturists",
+                "shortName": "Acupuncturist",
+                "categories": []
+            }, {
+                "name": "Alternative Healer",
+                "pluralName": "Alternative Healers",
+                "shortName": "Alternative Healer",
+                "categories": []
+            }, {
+                "name": "Chiropractor",
+                "pluralName": "Chiropractors",
+                "shortName": "Chiropractors",
+                "categories": []
+            }, {
+                "name": "Dentist's Office",
+                "pluralName": "Dentist's Offices",
+                "shortName": "Dentist's Office",
+                "categories": []
+            }, {
+                "name": "Doctor's Office",
+                "pluralName": "Doctor's Offices",
+                "shortName": "Doctor's Office",
+                "categories": []
+            }, {
+                "name": "Emergency Room",
+                "pluralName": "Emergency Rooms",
+                "shortName": "Emergency Room",
+                "categories": []
+            }, {
+                "name": "Eye Doctor",
+                "pluralName": "Eye Doctors",
+                "shortName": "Eye Doctor",
+                "categories": []
+            }, {
+                "name": "Hospital",
+                "pluralName": "Hospitals",
+                "shortName": "Hospital",
+                "categories": []
+            }, {
+                "name": "Laboratory",
+                "pluralName": "Laboratories",
+                "shortName": "Lab",
+                "categories": []
+            }, {
+                "name": "Maternity Clinic",
+                "pluralName": "Maternity Clinics",
+                "shortName": "Maternity Clinic",
+                "categories": []
+            }, {
+                "name": "Mental Health Office",
+                "pluralName": "Mental Health Offices",
+                "shortName": "Mental Health",
+                "categories": []
+            }, {
+                "name": "Rehab Center",
+                "pluralName": "Rehab Centers",
+                "shortName": "Rehab Center",
+                "categories": []
+            }, {
+                "name": "Urgent Care Center",
+                "pluralName": "Urgent Care Centers",
+                "shortName": "Urgent Care Center",
+                "categories": []
+            }, {
+                "name": "Veterinarian",
+                "pluralName": "Veterinarians",
+                "shortName": "Veterinarians",
+                "categories": []
+            }]
+        }, {
+            "name": "Military Base",
+            "pluralName": "Military Bases",
+            "shortName": "Military Base",
+            "categories": []
+        }, {
+            "name": "Non-Profit",
+            "pluralName": "Non-Profits",
+            "shortName": "Non-Profit",
+            "categories": []
+        }, {
+            "name": "Office",
+            "pluralName": "Offices",
+            "shortName": "Office",
+            "categories": [{
+                "name": "Advertising Agency",
+                "pluralName": "Advertising Agencies",
+                "shortName": "Advertising Agency",
+                "categories": []
+            }, {
+                "name": "Campaign Office",
+                "pluralName": "Campaign Offices",
+                "shortName": "Campaign",
+                "categories": []
+            }, {
+                "name": "Conference Room",
+                "pluralName": "Conference Rooms",
+                "shortName": "Conference room",
+                "categories": []
+            }, {
+                "name": "Corporate Amenity",
+                "pluralName": "Corporate Amenities",
+                "shortName": "Corporate Amenity",
+                "categories": []
+            }, {
+                "name": "Corporate Cafeteria",
+                "pluralName": "Corporate Cafeterias",
+                "shortName": "Corporate Cafeteria",
+                "categories": []
+            }, {
+                "name": "Corporate Coffee Shop",
+                "pluralName": "Corporate Coffee Shops",
+                "shortName": "Corporate Coffee Shop",
+                "categories": []
+            }, {
+                "name": "Coworking Space",
+                "pluralName": "Coworking Spaces",
+                "shortName": "Coworking Space",
+                "categories": []
+            }, {
+                "name": "Tech Startup",
+                "pluralName": "Tech Startups",
+                "shortName": "Tech Startup",
+                "categories": []
+            }]
+        }, {
+            "name": "Parking",
+            "pluralName": "Parking",
+            "shortName": "Parking",
+            "categories": []
+        }, {
+            "name": "Post Office",
+            "pluralName": "Post Offices",
+            "shortName": "Post Office",
+            "categories": []
+        }, {
+            "name": "Prison",
+            "pluralName": "Prisons",
+            "shortName": "Prison",
+            "categories": []
+        }, {
+            "name": "Radio Station",
+            "pluralName": "Radio Stations",
+            "shortName": "Radio Station",
+            "categories": []
+        }, {
+            "name": "Recruiting Agency",
+            "pluralName": "Recruiting Agencies",
+            "shortName": "Recruiting Agency",
+            "categories": []
+        }, {
+            "name": "School",
+            "pluralName": "Schools",
+            "shortName": "School",
+            "categories": [{
+                "name": "Adult Education Center",
+                "pluralName": "Adult Education Centers",
+                "shortName": "Adult Education Center",
+                "categories": []
+            }, {
+                "name": "Circus School",
+                "pluralName": "Circus Schools",
+                "shortName": "Circus School",
+                "categories": []
+            }, {
+                "name": "Driving School",
+                "pluralName": "Driving Schools",
+                "shortName": "Driving School",
+                "categories": []
+            }, {
+                "name": "Elementary School",
+                "pluralName": "Elementary Schools",
+                "shortName": "Elementary School",
+                "categories": []
+            }, {
+                "name": "Flight School",
+                "pluralName": "Flight Schools",
+                "shortName": "Flight School",
+                "categories": []
+            }, {
+                "name": "High School",
+                "pluralName": "High Schools",
+                "shortName": "High School",
+                "categories": []
+            }, {
+                "name": "Language School",
+                "pluralName": "Language Schools",
+                "shortName": "Language School",
+                "categories": []
+            }, {
+                "categories": []
+            }, {
+                "name": "Music School",
+                "pluralName": "Music Schools",
+                "shortName": "Music School",
+                "categories": []
+            }, {
+                "name": "Nursery School",
+                "pluralName": "Nursery Schools",
+                "shortName": "Nursery School",
+                "categories": []
+            }, {
+                "name": "Preschool",
+                "pluralName": "Preschools",
+                "shortName": "Preschool",
+                "categories": []
+            }, {
+                "name": "Private School",
+                "pluralName": "Private Schools",
+                "shortName": "Private School",
+                "categories": []
+            }, {
+                "name": "Religious School",
+                "pluralName": "Religious Schools",
+                "shortName": "Religious School",
+                "categories": []
+            }, {
+                "name": "Swim School",
+                "pluralName": "Swim Schools",
+                "shortName": "Swim School",
+                "categories": []
+            }]
+        }, {
+            "name": "Social Club",
+            "pluralName": "Social Clubs",
+            "shortName": "Social Club",
+            "categories": []
+        }, {
+            "name": "Spiritual Center",
+            "pluralName": "Spiritual Centers",
+            "shortName": "Spiritual",
+            "categories": [{
+                "name": "Buddhist Temple",
+                "pluralName": "Buddhist Temples",
+                "shortName": "Buddhist Temple",
+                "categories": []
+            }, {
+                "name": "Church",
+                "pluralName": "Churches",
+                "shortName": "Church",
+                "categories": []
+            }, {
+                "name": "Confucian Temple",
+                "pluralName": "Confucian Temples",
+                "shortName": "Confucian Temple",
+                "categories": []
+            }, {
+                "name": "Hindu Temple",
+                "pluralName": "Hindu Temples",
+                "shortName": "Hindu Temple",
+                "categories": []
+            }, {
+                "name": "Monastery",
+                "pluralName": "Monasteries",
+                "shortName": "Monastery",
+                "categories": []
+            }, {
+                "name": "Mosque",
+                "pluralName": "Mosques",
+                "shortName": "Mosque",
+                "categories": []
+            }, {
+                "name": "Prayer Room",
+                "pluralName": "Prayer Rooms",
+                "shortName": "Prayer Room",
+                "categories": []
+            }, {
+                "name": "Shrine",
+                "pluralName": "Shrines",
+                "shortName": "Shrine",
+                "categories": []
+            }, {
+                "name": "Synagogue",
+                "pluralName": "Synagogues",
+                "shortName": "Synagogue",
+                "categories": []
+            }, {
+                "name": "Temple",
+                "pluralName": "Temples",
+                "shortName": "Temple",
+                "categories": []
+            }, {
+                "name": "Terreiro",
+                "pluralName": "Terreiros",
+                "shortName": "Terreiro",
+                "categories": []
+            }]
+        }, {
+            "name": "TV Station",
+            "pluralName": "TV Stations",
+            "shortName": "TV Station",
+            "categories": []
+        }, {
+            "name": "Voting Booth",
+            "pluralName": "Voting Booths",
+            "shortName": "Voting Booth",
+            "categories": []
+        }, {
+            "name": "Warehouse",
+            "pluralName": "Warehouses",
+            "shortName": "Warehouse",
+            "categories": []
+        }, {
+            "name": "Wedding Hall",
+            "pluralName": "Wedding Halls",
+            "shortName": "Wedding Hall",
+            "categories": []
+        }, {
+            "name": "Winery",
+            "pluralName": "Wineries",
+            "shortName": "Winery",
+            "categories": []
+        }]
+    }, {
+        "categories": [{
+            "name": "Assisted Living",
+            "pluralName": "Assisted Living",
+            "shortName": "Assisted Living",
+            "categories": []
+        }, {
+            "name": "Home (private)",
+            "pluralName": "Homes (private)",
+            "shortName": "Home",
+            "categories": []
+        }, {
+            "name": "Housing Development",
+            "pluralName": "Housing Developments",
+            "shortName": "Housing Development",
+            "categories": []
+        }, {
+            "categories": []
+        }, {
+            "name": "Trailer Park",
+            "pluralName": "Trailer Parks",
+            "shortName": "Trailer Park",
+            "categories": []
+        }]
+    }, {
+        "name": "Shop & Service",
+        "pluralName": "Shops & Services",
+        "shortName": "Shops",
+        "categories": [{
+            "name": "ATM",
+            "pluralName": "ATMs",
+            "shortName": "ATM",
+            "categories": []
+        }, {
+            "name": "Adult Boutique",
+            "pluralName": "Adult Boutiques",
+            "shortName": "Adult Boutique",
+            "categories": []
+        }, {
+            "name": "Antique Shop",
+            "pluralName": "Antique Shops",
+            "shortName": "Antiques",
+            "categories": []
+        }, {
+            "name": "Arts & Crafts Store",
+            "pluralName": "Arts & Crafts Stores",
+            "shortName": "Arts & Crafts",
+            "categories": []
+        }, {
+            "name": "Astrologer",
+            "pluralName": "Astrologers",
+            "shortName": "Astrologer",
+            "categories": []
+        }, {
+            "name": "Auto Dealership",
+            "pluralName": "Auto Dealerships",
+            "shortName": "Auto Dealer",
+            "categories": []
+        }, {
+            "name": "Auto Garage",
+            "pluralName": "Auto Garages",
+            "shortName": "Auto Garage",
+            "categories": []
+        }, {
+            "name": "Auto Workshop",
+            "pluralName": "Auto Workshops",
+            "shortName": "Auto Workshop",
+            "categories": []
+        }, {
+            "name": "Automotive Shop",
+            "pluralName": "Automotive Shops",
+            "shortName": "Automotive",
+            "categories": []
+        }, {
+            "name": "Baby Store",
+            "pluralName": "Baby Stores",
+            "shortName": "Baby Store",
+            "categories": []
+        }, {
+            "name": "Bank",
+            "pluralName": "Banks",
+            "shortName": "Bank",
+            "categories": []
+        }, {
+            "name": "Bath House",
+            "pluralName": "Bath Houses",
+            "shortName": "Bath House",
+            "categories": []
+        }, {
+            "name": "Batik Shop",
+            "pluralName": "Batik Shops",
+            "shortName": "Batik Shop",
+            "categories": []
+        }, {
+            "name": "Betting Shop",
+            "pluralName": "Betting Shops",
+            "shortName": "Betting Shop",
+            "categories": []
+        }, {
+            "name": "Big Box Store",
+            "pluralName": "Big Box Stores",
+            "shortName": "Big Box Store",
+            "categories": []
+        }, {
+            "name": "Bike Shop",
+            "pluralName": "Bike Shops",
+            "shortName": "Bike Shop",
+            "categories": []
+        }, {
+            "name": "Board Shop",
+            "pluralName": "Board Shops",
+            "shortName": "Board Shop",
+            "categories": []
+        }, {
+            "name": "Bookstore",
+            "pluralName": "Bookstores",
+            "shortName": "Bookstore",
+            "categories": []
+        }, {
+            "categories": []
+        }, {
+            "name": "Business Service",
+            "pluralName": "Business Services",
+            "shortName": "Business Services",
+            "categories": []
+        }, {
+            "name": "Camera Store",
+            "pluralName": "Camera Stores",
+            "shortName": "Camera Store",
+            "categories": []
+        }, {
+            "name": "Candy Store",
+            "pluralName": "Candy Stores",
+            "shortName": "Candy Store",
+            "categories": []
+        }, {
+            "name": "Car Wash",
+            "pluralName": "Car Washes",
+            "shortName": "Car Washes",
+            "categories": []
+        }, {
+            "name": "Carpet Store",
+            "pluralName": "Carpet Stores",
+            "shortName": "Carpet Store",
+            "categories": []
+        }, {
+            "name": "Check Cashing Service",
+            "pluralName": "Check Cashing Services",
+            "shortName": "Check Cashing Service",
+            "categories": []
+        }, {
+            "name": "Chocolate Shop",
+            "pluralName": "Chocolate Shops",
+            "shortName": "Chocolate Shop",
+            "categories": []
+        }, {
+            "name": "Clothing Store",
+            "pluralName": "Clothing Stores",
+            "shortName": "Apparel",
+            "categories": [{
+                "name": "Accessories Store",
+                "pluralName": "Accessories Stores",
+                "shortName": "Accessories",
+                "categories": []
+            }, {
+                "name": "Boutique",
+                "pluralName": "Boutiques",
+                "shortName": "Boutique",
+                "categories": []
+            }, {
+                "categories": []
+            }, {
+                "name": "Lingerie Store",
+                "pluralName": "Lingerie Stores",
+                "shortName": "Lingerie",
+                "categories": []
+            }, {
+                "name": "Men's Store",
+                "pluralName": "Men's Stores",
+                "shortName": "Men's Store",
+                "categories": []
+            }, {
+                "name": "Shoe Store",
+                "pluralName": "Shoe Stores",
+                "shortName": "Shoes",
+                "categories": []
+            }, {
+                "name": "Women's Store",
+                "pluralName": "Women's Stores",
+                "shortName": "Women's Store",
+                "categories": []
+            }]
+        }, {
+            "name": "Comic Shop",
+            "pluralName": "Comic Shops",
+            "shortName": "Comic Shop",
+            "categories": []
+        }, {
+            "name": "Construction & Landscaping",
+            "pluralName": "Construction & Landscaping",
+            "shortName": "Construction",
+            "categories": []
+        }, {
+            "name": "Convenience Store",
+            "pluralName": "Convenience Stores",
+            "shortName": "Convenience Store",
+            "categories": []
+        }, {
+            "name": "Cosmetics Shop",
+            "pluralName": "Cosmetics Shops",
+            "shortName": "Cosmetics",
+            "categories": []
+        }, {
+            "name": "Costume Shop",
+            "pluralName": "Costume Shops",
+            "shortName": "Costume Shop",
+            "categories": []
+        }, {
+            "name": "Credit Union",
+            "pluralName": "Credit Unions",
+            "shortName": "Credit Union",
+            "categories": []
+        }, {
+            "name": "Daycare",
+            "pluralName": "Daycares",
+            "shortName": "Daycare",
+            "categories": []
+        }, {
+            "name": "Department Store",
+            "pluralName": "Department Stores",
+            "shortName": "Department Store",
+            "categories": []
+        }, {
+            "name": "Design Studio",
+            "pluralName": "Design Studios",
+            "shortName": "Design",
+            "categories": []
+        }, {
+            "name": "Discount Store",
+            "pluralName": "Discount Stores",
+            "shortName": "Discount Store",
+            "categories": []
+        }, {
+            "name": "Dive Shop",
+            "pluralName": "Dive Shops",
+            "shortName": "Dive Shop",
+            "categories": []
+        }, {
+            "name": "Dry Cleaner",
+            "pluralName": "Dry Cleaners",
+            "shortName": "Dry Cleaner",
+            "categories": []
+        }, {
+            "name": "EV Charging Station",
+            "pluralName": "EV Charging Stations",
+            "shortName": "EV Charging",
+            "categories": []
+        }, {
+            "name": "Electronics Store",
+            "pluralName": "Electronics Stores",
+            "shortName": "Electronics",
+            "categories": []
+        }, {
+            "name": "Entertainment Service",
+            "pluralName": "Entertainment Services",
+            "shortName": "Entertainment Service",
+            "categories": []
+        }, {
+            "name": "Event Service",
+            "pluralName": "Event Services",
+            "shortName": "Event Services",
+            "categories": []
+        }, {
+            "name": "Fabric Shop",
+            "pluralName": "Fabric Shops",
+            "shortName": "Fabric Shop",
+            "categories": []
+        }, {
+            "name": "Film Studio",
+            "pluralName": "Film Studios",
+            "shortName": "Film Studio",
+            "categories": []
+        }, {
+            "name": "Financial or Legal Service",
+            "pluralName": "Financial or Legal Services",
+            "shortName": "Financial / Legal",
+            "categories": []
+        }, {
+            "name": "Fireworks Store",
+            "pluralName": "Fireworks Stores",
+            "shortName": "Fireworks Store",
+            "categories": []
+        }, {
+            "name": "Fishing Store",
+            "pluralName": "Fishing Stores",
+            "shortName": "Fishing Store",
+            "categories": []
+        }, {
+            "name": "Flea Market",
+            "pluralName": "Flea Markets",
+            "shortName": "Flea Market",
+            "categories": []
+        }, {
+            "name": "Floating Market",
+            "pluralName": "Floating Markets",
+            "shortName": "Floating Market",
+            "categories": []
+        }, {
+            "name": "Flower Shop",
+            "pluralName": "Flower Shops",
+            "shortName": "Flower Shop",
+            "categories": []
+        }, {
+            "name": "Food & Drink Shop",
+            "pluralName": "Food & Drink Shops",
+            "shortName": "Food & Drink",
+            "categories": [{
+                "name": "Beer Store",
+                "pluralName": "Beer Stores",
+                "shortName": "Beer Store",
+                "categories": []
+            }, {
+                "name": "Butcher",
+                "pluralName": "Butchers",
+                "shortName": "Butcher",
+                "categories": []
+            }, {
+                "name": "Cheese Shop",
+                "pluralName": "Cheese Shops",
+                "shortName": "Cheese Shop",
+                "categories": []
+            }, {
+                "name": "Farmers Market",
+                "pluralName": "Farmers Markets",
+                "shortName": "Farmer's Market",
+                "categories": []
+            }, {
+                "name": "Fish Market",
+                "pluralName": "Fish Markets",
+                "shortName": "Fish Market",
+                "categories": []
+            }, {
+                "name": "Food Service",
+                "pluralName": "Food Services",
+                "shortName": "Food Service",
+                "categories": []
+            }, {
+                "name": "Gourmet Shop",
+                "pluralName": "Gourmet Shops",
+                "shortName": "Gourmet",
+                "categories": []
+            }, {
+                "name": "Grocery Store",
+                "pluralName": "Grocery Stores",
+                "shortName": "Grocery Store",
+                "categories": []
+            }, {
+                "name": "Health Food Store",
+                "pluralName": "Health Food Stores",
+                "shortName": "Health Food Store",
+                "categories": []
+            }, {
+                "name": "Liquor Store",
+                "pluralName": "Liquor Stores",
+                "shortName": "Liquor Store",
+                "categories": []
+            }, {
+                "name": "Organic Grocery",
+                "pluralName": "Organic Groceries",
+                "shortName": "Organic Grocery",
+                "categories": []
+            }, {
+                "name": "Sausage Shop",
+                "pluralName": "Sausage Shops",
+                "shortName": "Sausage Shop",
+                "categories": []
+            }, {
+                "name": "Street Food Gathering",
+                "pluralName": "Street Food Gatherings",
+                "shortName": "Street Food Gathering",
+                "categories": []
+            }, {
+                "name": "Supermarket",
+                "pluralName": "Supermarkets",
+                "shortName": "Supermarket",
+                "categories": []
+            }, {
+                "name": "Wine Shop",
+                "pluralName": "Wine Shops",
+                "shortName": "Wine Shop",
+                "categories": []
+            }]
+        }, {
+            "name": "Frame Store",
+            "pluralName": "Frame Stores",
+            "shortName": "Frame Store",
+            "categories": []
+        }, {
+            "name": "Fruit & Vegetable Store",
+            "pluralName": "Fruit & Vegetable Stores",
+            "shortName": "Fruit & Vegetable Store",
+            "categories": []
+        }, {
+            "name": "Furniture / Home Store",
+            "pluralName": "Furniture / Home Stores",
+            "shortName": "Furniture / Home",
+            "categories": [{
+                "name": "Lighting Store",
+                "pluralName": "Lighting Stores",
+                "shortName": "Lighting",
+                "categories": []
+            }]
+        }, {
+            "name": "Gaming Cafe",
+            "pluralName": "Gaming Cafes",
+            "shortName": "Gaming Cafe",
+            "categories": []
+        }, {
+            "name": "Garden Center",
+            "pluralName": "Garden Centers",
+            "shortName": "Garden Center",
+            "categories": []
+        }, {
+            "name": "Gas Station",
+            "pluralName": "Gas Stations",
+            "shortName": "Gas Station",
+            "categories": []
+        }, {
+            "name": "Gift Shop",
+            "pluralName": "Gift Shops",
+            "shortName": "Gift Shop",
+            "categories": []
+        }, {
+            "name": "Gun Shop",
+            "pluralName": "Gun Shops",
+            "shortName": "Gun Shop",
+            "categories": []
+        }, {
+            "name": "Hardware Store",
+            "pluralName": "Hardware Stores",
+            "shortName": "Hardware",
+            "categories": []
+        }, {
+            "name": "Health & Beauty Service",
+            "pluralName": "Health & Beauty Services",
+            "shortName": "Health & Beauty",
+            "categories": []
+        }, {
+            "name": "Herbs & Spices Store",
+            "pluralName": "Herbs & Spices Stores",
+            "shortName": "Herbs & Spices Store",
+            "categories": []
+        }, {
+            "name": "Hobby Shop",
+            "pluralName": "Hobby Shops",
+            "shortName": "Hobbies",
+            "categories": []
+        }, {
+            "name": "Home Service",
+            "pluralName": "Home Services & Repairs",
+            "shortName": "Home Services",
+            "categories": []
+        }, {
+            "name": "Hunting Supply",
+            "pluralName": "Hunting Supplies",
+            "shortName": "Hunting Supply",
+            "categories": []
+        }, {
+            "name": "IT Services",
+            "pluralName": "IT Services",
+            "shortName": "IT Services",
+            "categories": []
+        }, {
+            "name": "Internet Cafe",
+            "pluralName": "Internet Cafes",
+            "shortName": "Internet Cafe",
+            "categories": []
+        }, {
+            "name": "Jewelry Store",
+            "pluralName": "Jewelry Stores",
+            "shortName": "Jewelry",
+            "categories": []
+        }, {
+            "name": "Knitting Store",
+            "pluralName": "Knitting Stores",
+            "shortName": "Knitting Supplies",
+            "categories": []
+        }, {
+            "name": "Laundromat",
+            "pluralName": "Laundromats",
+            "shortName": "Laundromat",
+            "categories": []
+        }, {
+            "name": "Laundry Service",
+            "pluralName": "Laundry Services",
+            "shortName": "Laundry",
+            "categories": []
+        }, {
+            "name": "Lawyer",
+            "pluralName": "Lawyers",
+            "shortName": "Lawyer",
+            "categories": []
+        }, {
+            "name": "Leather Goods Store",
+            "pluralName": "Leather Goods Stores",
+            "shortName": "Leather Goods",
+            "categories": []
+        }, {
+            "name": "Locksmith",
+            "pluralName": "Locksmiths",
+            "shortName": "Locksmith",
+            "categories": []
+        }, {
+            "name": "Lottery Retailer",
+            "pluralName": "Lottery Retailers",
+            "shortName": "Lottery",
+            "categories": []
+        }, {
+            "name": "Luggage Store",
+            "pluralName": "Luggage Stores",
+            "shortName": "Luggage Store",
+            "categories": []
+        }, {
+            "name": "Marijuana Dispensary",
+            "pluralName": "Marijuana Dispensaries",
+            "shortName": "Dispensary",
+            "categories": []
+        }, {
+            "name": "Market",
+            "pluralName": "Markets",
+            "shortName": "Market",
+            "categories": []
+        }, {
+            "name": "Massage Studio",
+            "pluralName": "Massage Studios",
+            "shortName": "Massage Studio",
+            "categories": []
+        }, {
+            "name": "Mattress Store",
+            "pluralName": "Mattress Stores",
+            "shortName": "Mattress Store",
+            "categories": []
+        }, {
+            "name": "Miscellaneous Shop",
+            "pluralName": "Miscellaneous Shops",
+            "shortName": "Shop",
+            "categories": []
+        }, {
+            "name": "Mobile Phone Shop",
+            "pluralName": "Mobile Phone Shops",
+            "shortName": "Mobile Phones",
+            "categories": []
+        }, {
+            "name": "Mobility Store",
+            "pluralName": "Mobility Stores",
+            "shortName": "Mobility Store",
+            "categories": []
+        }, {
+            "name": "Motorcycle Shop",
+            "pluralName": "Motorcycle Shops",
+            "shortName": "Motorcycle Shop",
+            "categories": []
+        }, {
+            "name": "Music Store",
+            "pluralName": "Music Stores",
+            "shortName": "Music Store",
+            "categories": []
+        }, {
+            "name": "Nail Salon",
+            "pluralName": "Nail Salons",
+            "shortName": "Nail Salon",
+            "categories": []
+        }, {
+            "name": "Newsstand",
+            "pluralName": "Newsstands",
+            "shortName": "Newsstand",
+            "categories": []
+        }, {
+            "name": "Optical Shop",
+            "pluralName": "Optical Shops",
+            "shortName": "Optical",
+            "categories": []
+        }, {
+            "name": "Other Repair Shop",
+            "pluralName": "Other Repair Shops",
+            "shortName": "Other Repair",
+            "categories": []
+        }, {
+            "name": "Outdoor Supply Store",
+            "pluralName": "Outdoor Supply Stores",
+            "shortName": "Outdoor Supplies",
+            "categories": []
+        }, {
+            "name": "Outlet Store",
+            "pluralName": "Outlet Stores",
+            "shortName": "Outlet Store",
+            "categories": []
+        }, {
+            "name": "Paper / Office Supplies Store",
+            "pluralName": "Paper / Office Supplies Stores",
+            "shortName": "Office Supplies",
+            "categories": []
+        }, {
+            "name": "Pawn Shop",
+            "pluralName": "Pawn Shops",
+            "shortName": "Pawn Shop",
+            "categories": []
+        }, {
+            "name": "Perfume Shop",
+            "pluralName": "Perfume Shops",
+            "shortName": "Perfume Shop",
+            "categories": []
+        }, {
+            "name": "Pet Service",
+            "pluralName": "Pet Services",
+            "shortName": "Pet Service",
+            "categories": []
+        }, {
+            "name": "Pet Store",
+            "pluralName": "Pet Stores",
+            "shortName": "Pet Store",
+            "categories": []
+        }, {
+            "name": "Drugstore / Pharmacy",
+            "pluralName": "Pharmacies",
+            "shortName": "Pharmacy",
+            "categories": []
+        }, {
+            "name": "Photography Lab",
+            "pluralName": "Photography Labs",
+            "shortName": "Photography Lab",
+            "categories": []
+        }, {
+            "name": "Photography Studio",
+            "pluralName": "Photography Studios",
+            "shortName": "Photo Studio",
+            "categories": []
+        }, {
+            "name": "Piercing Parlor",
+            "pluralName": "Piercing Parlors",
+            "shortName": "Piercing Parlor",
+            "categories": []
+        }, {
+            "name": "Pop-Up Shop",
+            "pluralName": "Pop-Up Shops",
+            "shortName": "Pop-Up Shop",
+            "categories": []
+        }, {
+            "name": "Print Shop",
+            "pluralName": "Print Shops",
+            "shortName": "Print Shop",
+            "categories": []
+        }, {
+            "name": "Real Estate Office",
+            "pluralName": "Real Estate Offices",
+            "shortName": "Real Estate",
+            "categories": []
+        }, {
+            "name": "Record Shop",
+            "pluralName": "Record Shops",
+            "shortName": "Record Shop",
+            "categories": []
+        }, {
+            "name": "Recording Studio",
+            "pluralName": "Recording Studios",
+            "shortName": "Recording Studio",
+            "categories": []
+        }, {
+            "name": "Recycling Facility",
+            "pluralName": "Recycling Facilities",
+            "shortName": "Recycling",
+            "categories": []
+        }, {
+            "name": "Rental Service",
+            "pluralName": "Rental Services",
+            "shortName": "Rental Service",
+            "categories": []
+        }, {
+            "name": "Salon / Barbershop",
+            "pluralName": "Salons / Barbershops",
+            "shortName": "Salon / Barbershop",
+            "categories": []
+        }, {
+            "name": "Shipping Store",
+            "pluralName": "Shipping Stores",
+            "shortName": "Shipping Store",
+            "categories": []
+        }, {
+            "name": "Shoe Repair",
+            "pluralName": "Shoe Repair Shops",
+            "shortName": "Shoe Repair",
+            "categories": []
+        }, {
+            "name": "Shopping Mall",
+            "pluralName": "Shopping Malls",
+            "shortName": "Mall",
+            "categories": []
+        }, {
+            "name": "Ski Shop",
+            "pluralName": "Ski Shops",
+            "shortName": "Ski Shop",
+            "categories": []
+        }, {
+            "name": "Smoke Shop",
+            "pluralName": "Smoke Shops",
+            "shortName": "Smoke Shop",
+            "categories": []
+        }, {
+            "name": "Smoothie Shop",
+            "pluralName": "Smoothie Shops",
+            "shortName": "Smoothie Shop",
+            "categories": []
+        }, {
+            "name": "Souvenir Shop",
+            "pluralName": "Souvenir Shops",
+            "shortName": "Souvenir Shop",
+            "categories": []
+        }, {
+            "name": "Spa",
+            "pluralName": "Spas",
+            "shortName": "Spa",
+            "categories": []
+        }, {
+            "name": "Sporting Goods Shop",
+            "pluralName": "Sporting Goods Shops",
+            "shortName": "Sporting Goods",
+            "categories": []
+        }, {
+            "name": "Stationery Store",
+            "pluralName": "Stationery Stores",
+            "shortName": "Stationery Store",
+            "categories": []
+        }, {
+            "name": "Storage Facility",
+            "pluralName": "Storage Facilities",
+            "shortName": "Storage",
+            "categories": []
+        }, {
+            "name": "Tailor Shop",
+            "pluralName": "Tailor Shops",
+            "shortName": "Tailor",
+            "categories": []
+        }, {
+            "name": "Tanning Salon",
+            "pluralName": "Tanning Salons",
+            "shortName": "Tanning Salon",
+            "categories": []
+        }, {
+            "name": "Tattoo Parlor",
+            "pluralName": "Tattoo Parlors",
+            "shortName": "Tattoo",
+            "categories": []
+        }, {
+            "name": "Thrift / Vintage Store",
+            "pluralName": "Thrift / Vintage Stores",
+            "shortName": "Thrift / Vintage",
+            "categories": []
+        }, {
+            "name": "Toy / Game Store",
+            "pluralName": "Toy / Game Stores",
+            "shortName": "Toys & Games",
+            "categories": []
+        }, {
+            "name": "Travel Agency",
+            "pluralName": "Travel Agencies",
+            "shortName": "Travel Agency",
+            "categories": []
+        }, {
+            "name": "Used Bookstore",
+            "pluralName": "Used Bookstores",
+            "shortName": "Used Bookstore",
+            "categories": []
+        }, {
+            "name": "Vape Store",
+            "pluralName": "Vape Stores",
+            "shortName": "Vape Store",
+            "categories": []
+        }, {
+            "categories": []
+        }, {
+            "categories": []
+        }, {
+            "name": "Warehouse Store",
+            "pluralName": "Warehouse Stores",
+            "shortName": "Warehouse Store",
+            "categories": []
+        }, {
+            "name": "Watch Shop",
+            "pluralName": "Watch Shops",
+            "shortName": "Watch Shops",
+            "categories": []
+        }]
+    }, {
+        "name": "Travel & Transport",
+        "pluralName": "Travel & Transport",
+        "shortName": "Travel",
+        "categories": [{
+            "name": "Airport",
+            "pluralName": "Airports",
+            "shortName": "Airport",
+            "categories": [{
+                "name": "Airport Food Court",
+                "pluralName": "Airport Food Courts",
+                "shortName": "Food Court",
+                "categories": []
+            }, {
+                "name": "Airport Gate",
+                "pluralName": "Airport Gates",
+                "shortName": "Gate",
+                "categories": []
+            }, {
+                "name": "Airport Lounge",
+                "pluralName": "Airport Lounges",
+                "shortName": "Lounge",
+                "categories": []
+            }, {
+                "name": "Airport Service",
+                "pluralName": "Airport Services",
+                "shortName": "Airport Service",
+                "categories": []
+            }, {
+                "name": "Airport Terminal",
+                "pluralName": "Airport Terminals",
+                "shortName": "Terminal",
+                "categories": []
+            }, {
+                "name": "Airport Tram",
+                "pluralName": "Airport Trams",
+                "shortName": "Tram",
+                "categories": []
+            }, {
+                "name": "Plane",
+                "pluralName": "Planes",
+                "shortName": "Plane",
+                "categories": []
+            }]
+        }, {
+            "name": "Bike Rental / Bike Share",
+            "pluralName": "Bike Rentals / Bike Shares",
+            "shortName": "Bike",
+            "categories": []
+        }, {
+            "name": "Boat or Ferry",
+            "pluralName": "Boats or Ferries",
+            "shortName": "Boat / Ferry",
+            "categories": []
+        }, {
+            "name": "Border Crossing",
+            "pluralName": "Border Crossings",
+            "shortName": "Border Crossing",
+            "categories": []
+        }, {
+            "name": "Bus Station",
+            "pluralName": "Bus Stations",
+            "shortName": "Bus Station",
+            "categories": [{
+                "name": "Bus Line",
+                "pluralName": "Bus Lines",
+                "shortName": "Bus",
+                "categories": []
+            }]
+        }, {
+            "name": "Bus Stop",
+            "pluralName": "Bus Stops",
+            "shortName": "Bus Stop",
+            "categories": []
+        }, {
+            "name": "Cable Car",
+            "pluralName": "Cable Cars",
+            "shortName": "Cable Car",
+            "categories": []
+        }, {
+            "name": "Cruise",
+            "pluralName": "Cruises",
+            "shortName": "Cruise",
+            "categories": []
+        }, {
+            "name": "General Travel",
+            "pluralName": "General Travel",
+            "shortName": "Travel",
+            "categories": []
+        }, {
+            "name": "Heliport",
+            "pluralName": "Heliports",
+            "shortName": "Heliport",
+            "categories": []
+        }, {
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "categories": [{
+                "name": "Bed & Breakfast",
+                "pluralName": "Bed & Breakfasts",
+                "shortName": "B & B",
+                "categories": []
+            }, {
+                "name": "Boarding House",
+                "pluralName": "Boarding Houses",
+                "shortName": "Boarding",
+                "categories": []
+            }, {
+                "name": "Hostel",
+                "pluralName": "Hostels",
+                "shortName": "Hostel",
+                "categories": []
+            }, {
+                "name": "Hotel Pool",
+                "pluralName": "Hotel Pools",
+                "shortName": "Pool",
+                "categories": []
+            }, {
+                "name": "Motel",
+                "pluralName": "Motels",
+                "shortName": "Motel",
+                "categories": []
+            }, {
+                "name": "Resort",
+                "pluralName": "Resorts",
+                "shortName": "Resort",
+                "categories": []
+            }, {
+                "name": "Roof Deck",
+                "pluralName": "Roof Decks",
+                "shortName": "Roof Deck",
+                "categories": []
+            }, {
+                "name": "Vacation Rental",
+                "pluralName": "Vacation Rentals",
+                "shortName": "Vacation Rental",
+                "categories": []
+            }]
+        }, {
+            "name": "Intersection",
+            "pluralName": "Intersections",
+            "shortName": "Intersection",
+            "categories": []
+        }, {
+            "name": "Light Rail Station",
+            "pluralName": "Light Rail Stations",
+            "shortName": "Light Rail",
+            "categories": []
+        }, {
+            "name": "Metro Station",
+            "pluralName": "Metro Stations",
+            "shortName": "Metro",
+            "categories": []
+        }, {
+            "name": "Moving Target",
+            "pluralName": "Moving Targets",
+            "shortName": "Moving Target",
+            "categories": []
+        }, {
+            "name": "Pier",
+            "pluralName": "Piers",
+            "shortName": "Piers",
+            "categories": []
+        }, {
+            "name": "Port",
+            "pluralName": "Ports",
+            "shortName": "Port",
+            "categories": []
+        }, {
+            "name": "RV Park",
+            "pluralName": "RV Parks",
+            "shortName": "RV Park",
+            "categories": []
+        }, {
+            "name": "Rental Car Location",
+            "pluralName": "Rental Car Locations",
+            "shortName": "Rental Car",
+            "categories": []
+        }, {
+            "name": "Rest Area",
+            "pluralName": "Rest Areas",
+            "shortName": "Rest Areas",
+            "categories": []
+        }, {
+            "name": "Road",
+            "pluralName": "Roads",
+            "shortName": "Road",
+            "categories": []
+        }, {
+            "name": "Street",
+            "pluralName": "Streets",
+            "shortName": "Street",
+            "categories": []
+        }, {
+            "name": "Taxi Stand",
+            "pluralName": "Taxi Stands",
+            "shortName": "Taxi Stand",
+            "categories": []
+        }, {
+            "name": "Taxi",
+            "pluralName": "Taxis",
+            "shortName": "Taxi",
+            "categories": []
+        }, {
+            "name": "Toll Booth",
+            "pluralName": "Toll Booths",
+            "shortName": "Toll Booth",
+            "categories": []
+        }, {
+            "name": "Toll Plaza",
+            "pluralName": "Toll Plazas",
+            "shortName": "Toll Plaza",
+            "categories": []
+        }, {
+            "name": "Tourist Information Center",
+            "pluralName": "Tourist Information Centers",
+            "shortName": "Tourist Information",
+            "categories": []
+        }, {
+            "name": "Train Station",
+            "pluralName": "Train Stations",
+            "shortName": "Train Station",
+            "categories": [{
+                "name": "Platform",
+                "pluralName": "Platforms",
+                "shortName": "Platform",
+                "categories": []
+            }, {
+                "name": "Train",
+                "pluralName": "Trains",
+                "shortName": "Train",
+                "categories": []
+            }]
+        }, {
+            "name": "Tram Station",
+            "pluralName": "Tram Stations",
+            "shortName": "Tram",
+            "categories": []
+        }, {
+            "name": "Transportation Service",
+            "pluralName": "Transportation Services",
+            "shortName": "Transportation Services",
+            "categories": []
+        }, {
+            "name": "Travel Lounge",
+            "pluralName": "Travel Lounges",
+            "shortName": "Lounge",
+            "categories": []
+        }, {
+            "name": "Tunnel",
+            "pluralName": "Tunnels",
+            "shortName": "Tunnel",
+            "categories": []
+        }]
+    }]
+}

@@ -51,11 +51,19 @@ geolocator = Nominatim()
 # partCounty.to_csv('../data/partCounty.csv', index=False)
 
 # Part 3: Add Label 1 for in city 0 for out of city
-county = pd.read_csv('../data/partCounty.csv')
-county.loc[:, 'label'] = np.zeros(len(county))
-for i, row in county.iterrows():
-    if county.iloc[i, 2] in ['Kings County', 'Queens County',
-                             'New York County', 'Bronx County']:
-        county.iloc[i, 3] = 1
-county.to_csv('../data/venueCounty.csv', index=False)
-print county.head()
+# county = pd.read_csv('../data/partCounty.csv')
+# county.loc[:, 'label'] = np.zeros(len(county))
+# for i, row in county.iterrows():
+#     if county.iloc[i, 2] in ['Kings County', 'Queens County',
+#                              'New York County', 'Bronx County']:
+#         county.iloc[i, 3] = 1
+# county.to_csv('../data/venueCounty.csv', index=False)
+# print county.head()
+
+# Part 4: Merge venueCounty.csv with merged_message.csv on lat lon
+# county = pd.read_csv('../data/venueCounty.csv', dtype={'lat': str, 'lon': str})
+# message = pd.read_csv('../data/merged_message.csv',
+#                       dtype={'user_id': str, 'lat': str, 'lon': str, 'venue_idx': str})
+# label_message = pd.merge(county, message, on=['lat', 'lon'])
+# labeled_message = label_message[label_message['label'] == 1]
+# labeled_message.to_csv('../data/cleanMessage.csv', index=False)
