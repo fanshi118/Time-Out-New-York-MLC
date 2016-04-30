@@ -14,7 +14,7 @@ def getJaccardSimilarity(user1=None, user2=None):
         return jaccard_similarity_score(user1, user2)
 
 
-def get_sim_index_based_on_freq(user1=None, user2=None, normalize=False):
+def getFrequencySimilarity(user1=None, user2=None, normalize=False):
     if user1.ndim != 1 or user2.ndim != 1:
         print 'Input arrays must be 1-dimensional'
         return
