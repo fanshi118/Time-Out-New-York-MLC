@@ -8,14 +8,15 @@ auth.set_access_token(TWITTER_ACCESS_TOKEN, TWITTER_ACCESS_TOKEN_SECRET)
 
 api = tweepy.API(auth)
 
-users = getIDsFromCleanData()
+# users = getIDsFromCleanData()
+usersToScrape = getIDsFromCleanData()
 
-with open('../data/twitter_following_scraped.json') as data_file:
-	scraped_users = json.load(data_file)
+# with open('../data/twitter_following_scraped.json') as data_file:
+# 	scraped_users = json.load(data_file)
 
-scrapedIDs = scraped_users.keys()
+# scrapedIDs = scraped_users.keys()
 
-usersToScrape = np.setdiff1d(users, scrapedIDs, assume_unique=True)
+# usersToScrape = np.setdiff1d(users, scrapedIDs, assume_unique=True)
 # print len(users), len(scrapedIDs), len(usersToScrape)
 
 # usersToScrape = np.append(usersToScrape[:2], np.split(usersToScrape[2:], 6)[0])
