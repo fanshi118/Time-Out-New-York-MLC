@@ -1,3 +1,4 @@
 data/fullOuptput.csv filter=lfs diff=lfs merge=lfs -text
 data/fullOutput.csv filter=lfs diff=lfs merge=lfs -text
 data/merged_message.csv filter=lfs diff=lfs merge=lfs -text
+data/result/cosMatrix.csv filter=lfs diff=lfs merge=lfs -text
