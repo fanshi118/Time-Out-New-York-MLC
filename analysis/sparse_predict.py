@@ -4,7 +4,7 @@ import sklearn.preprocessing as pp
 import scipy.sparse as sp
 import numpy as np
 import scipy.io as sio
-
+from getSomething import getFriendsMatrix
 df = pd.read_csv('../data/result/checkinsFinal.csv')
 partDf = df[
     ['user_id', 'time', 'venue_id', 'venue_name', 'venue_category']]
@@ -28,20 +28,23 @@ cosMatrix_mat = sio.loadmat(
     squeeze_me=True)['cosMatrix']
 # print cosMatrix_mat
 # Shape(4365, 4365)
-
-
-print("Predicting similarity based on cosMatrix")
-cosPredict = pd.DataFrame(
-    0, index=range(len(uniqueUser)), columns=range(len(uniqueVenue)))
-similarityCosSum = pd.DataFrame(
-    cosMatrix_mat.sum(axis=1)) - cosMatrix.diagonal().reshape(4365, 1)
+print("Adding User similarity network")
+userMatrix_mat = getFriendsMatrix()
+combinedMatrix_mat = userMatrix_mat + cosMatrix_mat
+combinedPredict = pd.DataFrame(combinedMatrix_mat * checkin)
+combinedPredict.to_csv('../data/result/combinedPredict.csv', index=False)
+# print("Predicting similarity based on cosMatrix")
+# cosPredict = pd.DataFrame(
+#     0, index=range(len(uniqueUser)), columns=range(len(uniqueVenue)))
+# similarityCosSum = pd.DataFrame(
+#     cosMatrix_mat.sum(axis=1)) - cosMatrix.diagonal().reshape(4365, 1)
 # print similarityCosSum
 # d = pd.DataFrame([[i for j in range(838)]
-#                   for i in similarityCosSum.iloc[:, 0]])
+# for i in similarityCosSum.iloc[:, 0]])
 # Shape(4365,1)
-covCosSimilar = pd.DataFrame(cosMatrix_mat * checkin)
-covCosSimilar.to_csv('../data/result/covCosSimilar.csv', index=False)
-print covCosSimilar
+# covCosSimilar = pd.DataFrame(cosMatrix_mat * checkin)
+# covCosSimilar.to_csv('../data/result/covCosSimilar.csv', index=False)
+# print covCosSimilar
 # Shape(4365, 838)
 
 # for i, row in covCosSimilar.iterrows():
