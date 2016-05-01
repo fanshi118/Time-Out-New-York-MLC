@@ -24,7 +24,7 @@ def convertUnicodeToInt(jsonFile={}):
 		tempList = []
 	return newFile
 
-def getUserMatrix():
+def getFriendsMatrix():
 	cosMatrix_mat = sio.loadmat(
 		'../data/result/cosMatrix.mat', struct_as_record=False,
 		squeeze_me=True)['cosMatrix']
@@ -43,4 +43,3 @@ def getUserMatrix():
 				userNetwork_mat[row][friend_idx] = 1
 	userNetwork_mat = sp.csr_matrix(userNetwork_mat)
 	return userNetwork_mat
-	
