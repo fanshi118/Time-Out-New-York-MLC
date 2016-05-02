@@ -1,4 +1,3 @@
-
 from __future__ import division
 import pandas as pd
 import scipy.sparse as sp
@@ -11,12 +10,6 @@ def getUsers():
     df = pd.read_csv('../data/result/checkinsFinal.csv')
     return df['user_id'].unique()
 
-
-def getVenues():
-    df = pd.read_csv('../data/result/checkinsFinal.csv')
-    return df['venue_id'].unique()
-
-
 def convertUnicodeToInt(jsonFile={}):
     newFile = {}
     tempList = []
@@ -26,7 +19,6 @@ def convertUnicodeToInt(jsonFile={}):
         newFile[np.int64(key)] = tempList
         tempList = []
     return newFile
-
 
 def getFriendsMatrix():
     cosMatrix_mat = sio.loadmat(
