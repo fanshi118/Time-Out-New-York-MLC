@@ -14,5 +14,16 @@ We implemented a venue recommendation system for Foursquare users based on their
 
 As for the analysis part, we plan to establish a similarity index for both users, by taking both spatio-temporal and contextual features (i.e. friends network) into account. Techniques involved include collaborative filtering and spectral clustering.
 
+### Steps to Run
+Run the folders in sequential order as listed below
+
+`preprocessing`
+
+`scripts`
+
+`analysis`
+
+Please refer to `deliverables` for results.
+
 ### Acknowledgement
 The Twitter data were collected for research and academic purposes from the Twitter's Public API by the Visualization and Data Analysis lab at New York University (VIDA-NYU) — special thanks to Professor Huy T. Vo for making it available to us. 
